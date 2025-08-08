@@ -5,6 +5,7 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from io import BytesIO
+from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 
 # Register Arial Unicode font with a specific name
 #font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
@@ -101,4 +102,5 @@ if csv_datei:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
