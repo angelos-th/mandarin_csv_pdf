@@ -7,8 +7,8 @@ from reportlab.pdfbase.ttfonts import TTFont
 from io import BytesIO
 
 # Register Arial Unicode font with a specific name
-font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
-pdfmetrics.registerFont(TTFont('ArialUnicode', font_path))
+#font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
+pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
 st.set_page_config(layout="wide")
 
 # Function to load words from CSV
@@ -101,3 +101,4 @@ if csv_datei:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
