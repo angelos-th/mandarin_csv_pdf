@@ -92,7 +92,7 @@ if csv_datei:
 
 # Proceed only if df is not None
 if df is not None:
-    df.columns = df.columns.str.strip().str.lower()
+    #df.columns = df.columns.str.strip().str.lower()
     # Filter options
     kapitel = st.multiselect("📘 Kapitel auswählen", sorted(df["kapitel"].unique()))
     aussprache = st.text_input("🔤 Filter: Aussprache ohne Ton (z. B. 'hao')")
@@ -135,6 +135,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
