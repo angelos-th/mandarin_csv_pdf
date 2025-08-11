@@ -16,7 +16,7 @@ st.set_page_config(layout="wide")
 # Function to load words from CSV
 @st.cache_data
 def lade_woerter(csv_datei):
-    return pd.read_csv(csv_datei)
+    return pd.read_csv(csv_datei, encoding="utf-8")
 
 # Function to load file from GitHub
 def load_file_from_github(url):
@@ -66,7 +66,7 @@ st.title("📚 Chinesisch Übungsblätter Generator")
 
 # File upload
 csv_datei = st.file_uploader("📤 Lade deine CSV-Datei hoch", type=["csv"])
-github_file_url = "https://raw.githubusercontent.com/angelos-th/mandarin_csv_pdf/main/Kap.1-12.csv"
+github_file_url = "https://raw.githubusercontent.com/angelos-th/mandarin_csv_pdf/refs/heads/main/Kap.1-12.csv?token=GHSAT0AAAAAADI354OMBXXSG4GWA5I25GBG2E2EFJA"
 
 # Initialize df as None
 df = None
@@ -77,7 +77,7 @@ if st.button("Load File from GitHub"):
     if file_content:
         st.write("File loaded successfully!")
         # Assuming the file from GitHub is a CSV
-        df = pd.read_csv(io.StringIO(file_content))
+        df = pd.read_csv(io.StringIO(file_content), encoding="utf-8")
         st.dataframe(df)
     else:
         st.write("Failed to load the file.")
@@ -131,11 +131,3 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
-
-
-
-
-
-
-
-
