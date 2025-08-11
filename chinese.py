@@ -92,21 +92,20 @@ if csv_datei:
 
 # Proceed only if df is not None
 if df is not None:
-    #df.columns = df.columns.str.strip().str.lower()
     # Filter options
     kapitel = st.multiselect("📘 Kapitel auswählen", sorted(df["kapitel"].unique()))
-    aussprache = st.text_input("🔤 Filter: Aussprache ohne Ton (z. B. 'hao')")
+    aussprache = st.text_input("🔤 Filter: Aussprache ohne Ton (z. B. 'hao')")
     grammatik = st.multiselect("🧠 Grammatikalische Kategorie wählen", sorted(df["grammatik"].dropna().unique()))
-#    kategorie = st.multiselect("📂 Wort-Kategorie wählen", df["kategorie"].value_counts().index.tolist())
     hsk = st.multiselect("📊 HSK-Niveau auswählen", sorted(df["HSK"].dropna().unique()))
+
     # --- Kategorien zusammenführen ---
     df["alle_tags"] = (
-    df[["kategorie 1", "kategorie 2", "kategorie 3"]]
-    .fillna("")
-    .agg("|".join, axis=1)
-    .str.split("|")
-    .apply(lambda lst: [tag.strip() for tag in lst if tag.strip()])
-)             
+        df[["kategorie 1", "kategorie 2", "kategorie 3"]]
+        .fillna("")
+        .agg("|".join, axis=1)
+        .str.split("|")
+        .apply(lambda lst: [tag.strip() for tag in lst if tag.strip()])
+    )
     alle_tags_einzigartig = sorted({tag for tags in df["alle_tags"] for tag in tags if tag})
     tags_filter = st.multiselect("🏷️ Tags auswählen (aus allen Kategorien)", alle_tags_einzigartig)
 
@@ -118,22 +117,19 @@ if df is not None:
         gefiltert = gefiltert[gefiltert["aussprache_ohne_ton"].str.lower() == aussprache.lower()]
     if grammatik:
         gefiltert = gefiltert[gefiltert["grammatik"].isin(grammatik)]
-#    if kategorie:
-#        gefiltert = gefiltert[gefiltert["kategorie"].isin(kategorie)]
     if tags_filter:
         gefiltert = gefiltert[gefiltert["alle_tags"].apply(lambda tag_liste: any(tag in tag_liste for tag in tags_filter))]
-    # Show original vs filtered data
-col1, col2 = st.columns(2)
-with col1:
-    st.subheader("📄 Originale Daten")
-    st.dataframe(df)
-with col2:
-    st.subheader("🔍 Gefilterte Daten")
-    st.dataframe(gefiltert)
 
-st.write(f"Gefundene Wörter: {len(gefiltert)}")
+    # Show original vs filtered data side-by-side
+    col1, col2 = st.columns(2)
+    with col1:
+        st.subheader("📄 Originale Daten")
+        st.dataframe(df)
+    with col2:
+        st.subheader("🔍 Gefilterte Daten")
+        st.dataframe(gefiltert)
+
     st.write(f"Gefundene Wörter: {len(gefiltert)}")
-    st.dataframe(gefiltert)
 
     if not gefiltert.empty:
         if st.button("📄 PDF generieren"):
@@ -144,4 +140,3 @@ st.write(f"Gefundene Wörter: {len(gefiltert)}")
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
-
