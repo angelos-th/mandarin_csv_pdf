@@ -1,3 +1,4 @@
-pandas
-reportlab
-streamlit
+pandas==2.1.4
+reportlab==4.0.4
+streamlit==1.29.0
+requests==2.31.0
