@@ -6,7 +6,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from io import BytesIO
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
-
+import requests
 # Register Arial Unicode font with a specific name
 #font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
 pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
@@ -16,6 +16,14 @@ st.set_page_config(layout="wide")
 @st.cache_data
 def lade_woerter(csv_datei):
     return pd.read_csv(csv_datei)
+
+# Function to load file from GitHub
+def load_file_from_github(url):
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.text
+    else:
+        return None
 
 # Function to generate PDF using ReportLab
 def generate_pdf(df):
@@ -57,12 +65,33 @@ st.title("📚 Chinesisch Übungsblätter Generator")
 
 # File upload
 csv_datei = st.file_uploader("📤 Lade deine CSV-Datei hoch", type=["csv"])
+github_file_url = "https://raw.githubusercontent.com/your-username/your-repo/main/your-file.txt"
 
+# Initialize df as None
+df = None
+
+# Button to load the file from GitHub
+if st.button("Load File from GitHub"):
+    file_content = load_file_from_github(github_file_url)
+    if file_content:
+        st.write("File loaded successfully!")
+        # Assuming the file from GitHub is a CSV
+        df = pd.read_csv(io.StringIO(file_content))
+        st.dataframe(df)
+    else:
+        st.write("Failed to load the file.")
+
+# File uploader for CSV
+csv_datei = st.file_uploader("Upload a CSV file", type=["csv"])
+
+# Load and display the CSV file if uploaded
 if csv_datei:
     df = lade_woerter(csv_datei)
     st.success("Datei erfolgreich geladen! ✅")
     st.dataframe(df)
 
+# Proceed only if df is not None
+if df is not None:
     # Filter options
     kapitel = st.multiselect("📘 Kapitel auswählen", sorted(df["kapitel"].unique()))
     aussprache = st.text_input("🔤 Filter: Aussprache ohne Ton (z. B. 'hao')")
@@ -102,5 +131,6 @@ if csv_datei:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
