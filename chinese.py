@@ -66,7 +66,7 @@ st.title("📚 Chinesisch Übungsblätter Generator")
 
 # File upload
 csv_datei = st.file_uploader("📤 Lade deine CSV-Datei hoch", type=["csv"])
-github_file_url = "https://raw.githubusercontent.com/angelos-th/mandarin_csv_pdf/refs/heads/main/Kap.1-12.csv?token=GHSAT0AAAAAADI354OMBXXSG4GWA5I25GBG2E2EFJA"
+github_file_url = "https://raw.githubusercontent.com/angelos-th/mandarin_csv_pdf/refs/heads/main/Kap.1-12.csv"
 
 # Initialize df as None
 df = None
@@ -131,3 +131,4 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
