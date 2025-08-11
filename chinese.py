@@ -92,6 +92,7 @@ if csv_datei:
 
 # Proceed only if df is not None
 if df is not None:
+    df.columns = df.columns.str.strip().str.lower()
     # Filter options
     kapitel = st.multiselect("📘 Kapitel auswählen", sorted(df["kapitel"].unique()))
     aussprache = st.text_input("🔤 Filter: Aussprache ohne Ton (z. B. 'hao')")
@@ -99,10 +100,11 @@ if df is not None:
 #    kategorie = st.multiselect("📂 Wort-Kategorie wählen", df["kategorie"].value_counts().index.tolist())
     hsk = st.multiselect("📊 HSK-Niveau auswählen", sorted(df["HSK"].dropna().unique()))
     # --- Kategorien zusammenführen ---
-    df["alle_tags"] = df[["kategorie 1", "kategorie 2", "kategorie 3"]] \
+    df["alle_tags"] = (df[["kategorie 1", "kategorie 2", "kategorie 3"]] \
         .fillna("") \
         .agg("|".join, axis=1) \
         .str.split("|")
+        .apply(lambda lst: [tag.strip() for tag in lst if tag.strip()!= ""]))                    
     alle_tags_einzigartig = sorted({tag for tags in df["alle_tags"] for tag in tags if tag})
     tags_filter = st.multiselect("🏷️ Tags auswählen (aus allen Kategorien)", alle_tags_einzigartig)
 
@@ -131,5 +133,6 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
