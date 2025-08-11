@@ -12,7 +12,8 @@ import requests
 #font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
 pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
 st.set_page_config(layout="wide")
-
+if "df" not in st.session_state:
+    st.session_state.df = None
 # Function to load words from CSV
 @st.cache_data
 def lade_woerter(csv_datei):
@@ -77,8 +78,11 @@ if st.button("Load File from GitHub"):
     if file_content:
         st.write("File loaded successfully!")
         # Assuming the file from GitHub is a CSV
-        df = pd.read_csv(io.StringIO(file_content), encoding="utf-8")
-        st.dataframe(df)
+        #df = pd.read_csv(io.StringIO(file_content), encoding="utf-8")
+        st.session_state.df = pd.read_csv(io.StringIO(file_content), encoding="utf-8")
+        st.success("File loaded successfully from GitHub! ✅")
+        st.dataframe(st.session_state.df)
+        #st.dataframe(df)
     else:
         st.write("Failed to load the file.")
 
@@ -86,10 +90,13 @@ if st.button("Load File from GitHub"):
 
 # Load and display the CSV file if uploaded
 if csv_datei:
-    df = lade_woerter(csv_datei)
+    #df = lade_woerter(csv_datei)
+    #st.success("Datei erfolgreich geladen! ✅")
+    st.session_state.df = lade_woerter(csv_datei)
     st.success("Datei erfolgreich geladen! ✅")
-    st.dataframe(df)
-
+    st.dataframe(st.session_state.df)
+    #st.dataframe(df)
+df = st.session_state.df
 # Proceed only if df is not None
 if df is not None:
     # Filter options
@@ -140,3 +147,4 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
