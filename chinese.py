@@ -5,6 +5,7 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 import io
+from io import BytesIO
 from reportlab.pdfbase.cidfonts import UnicodeCIDFont
 import requests
 # Register Arial Unicode font with a specific name
@@ -65,7 +66,7 @@ st.title("📚 Chinesisch Übungsblätter Generator")
 
 # File upload
 csv_datei = st.file_uploader("📤 Lade deine CSV-Datei hoch", type=["csv"])
-github_file_url = "https://github.com/angelos-th/mandarin_csv_pdf/blob/dd6f92c34b9fb37989657ac4cb744e61b0d97222/Kap.1-12.csv"
+github_file_url = "https://raw.githubusercontent.com/angelos-th/mandarin_csv_pdf/refs/heads/main/Kap.1-12.csv?token=GHSAT0AAAAAADI354OMBXXSG4GWA5I25GBG2E2EFJA"
 
 # Initialize df as None
 df = None
@@ -130,6 +131,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
