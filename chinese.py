@@ -65,7 +65,7 @@ st.title("📚 Chinesisch Übungsblätter Generator")
 
 # File upload
 csv_datei = st.file_uploader("📤 Lade deine CSV-Datei hoch", type=["csv"])
-github_file_url = "https://raw.githubusercontent.com/your-username/your-repo/main/your-file.txt"
+github_file_url = "Kap.1-12.csv"
 
 # Initialize df as None
 df = None
@@ -131,6 +131,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
