@@ -31,7 +31,7 @@ def generate_pdf(df):
     c = canvas.Canvas(buffer, pagesize=letter)
 
     # Set font and size to the registered font name
-    c.setFont("ArialUnicode", 12)
+    c.setFont("STSong-Light", 12)
 
     # Title
     c.drawString(100, 750, "Übungsblatt – Chinesische Schriftzeichen")
@@ -130,6 +130,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
