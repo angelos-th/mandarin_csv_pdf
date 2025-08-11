@@ -123,13 +123,13 @@ if df is not None:
     if tags_filter:
         gefiltert = gefiltert[gefiltert["alle_tags"].apply(lambda tag_liste: any(tag in tag_liste for tag in tags_filter))]
     # Show original vs filtered data
-    col1, col2 = st.columns(2)
-    with col1:
-        st.subheader("📄 Originale Daten")
-        st.dataframe(df)
-    with col2:
-        st.subheader("🔍 Gefilterte Daten")
-        st.dataframe(gefiltert)
+col1, col2 = st.columns(2)
+with col1:
+    st.subheader("📄 Originale Daten")
+    st.dataframe(df)
+with col2:
+    st.subheader("🔍 Gefilterte Daten")
+    st.dataframe(gefiltert)
 
 st.write(f"Gefundene Wörter: {len(gefiltert)}")
     st.write(f"Gefundene Wörter: {len(gefiltert)}")
@@ -144,3 +144,4 @@ st.write(f"Gefundene Wörter: {len(gefiltert)}")
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
