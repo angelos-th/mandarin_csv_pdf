@@ -32,36 +32,43 @@ def generate_pdf(df):
     buffer = BytesIO()
     c = canvas.Canvas(buffer, pagesize=letter)
 
-    # Set font and size to the registered font name
-    c.setFont("STSong-Light", 12)
+    # Überschrift
+    c.setFont("STSong-Light", 16)
+    c.drawString(100, 780, "Übungsblatt – Chinesische Schriftzeichen")
 
-    # Title
-    c.drawString(100, 750, "Übungsblatt – Chinesische Schriftzeichen")
-
-    # Starting position for the content
-    y_position = 700
+    y_position = 750
+    box_width = 40
+    box_height = 40
+    box_spacing = 10
+    page_margin_bottom = 30
 
     for _, row in df.iterrows():
-        # Draw symbol, pronunciation, and meaning
-        line = f"{row['zeichen']} [{row['aussprache']}] – {row['bedeutung']}"
+        # Zeile mit Zeichen, Pinyin (mit Ton) und Bedeutung
+        c.setFont("STSong-Light", 14)
+        line = f"{row['zeichen']}  [{row['aussprache']}]  –  {row['bedeutung']}"
         c.drawString(100, y_position, line)
+        y_position -= 30
 
-        # Draw empty boxes for practice
-        box_y_position = y_position - 20
-        box_width = 50
-        box_height = 30
-        box_spacing = 60  # Horizontal spacing between boxes
+        # Wie viele Symbole (="Boxen")?
+        zeichen_text = str(row['zeichen'])
+        n_boxen = len(zeichen_text)
 
-        # Draw multiple boxes horizontally
-        for i in range(3):  # Create 3 empty boxes for practice
-            box_x_position = 100 + i * box_spacing
-            c.rect(box_x_position, box_y_position, box_width, box_height, stroke=1, fill=0)
+        # Leere Kästchen nebeneinander
+        for i in range(n_boxen):
+            box_x = 100 + i * (box_width + box_spacing)
+            c.rect(box_x, y_position - box_height, box_width, box_height, stroke=1, fill=0)
+        y_position -= (box_height + 20)
 
-        y_position -= 80  # Adjust vertical position for next entry
+        # Seitenumbruch falls nötig
+        if y_position < page_margin_bottom + box_height:
+            c.showPage()
+            c.setFont("STSong-Light", 14)
+            y_position = 750
 
     c.save()
     buffer.seek(0)
     return buffer
+
 
 st.title("📚 Chinesisch Übungsblätter Generator")
 
@@ -150,6 +157,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
