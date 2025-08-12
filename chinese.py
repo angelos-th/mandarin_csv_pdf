@@ -11,6 +11,7 @@ import requests
 # Register Arial Unicode font with a specific name
 #font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
 pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
+pdfmetrics.registerFont(TTFont('NotoSansCJK', 'NotoSansCJK-Regular.ttf'))
 st.set_page_config(layout="wide")
 if "df" not in st.session_state:
     st.session_state.df = None
@@ -44,7 +45,8 @@ def generate_pdf(df):
 
     for _, row in df.iterrows():
         # Zeile mit Zeichen, Pinyin (mit Ton) und Bedeutung
-        c.setFont("STSong-Light", 14)
+        #c.setFont("STSong-Light", 14)
+        c.setFont('NotoSansCJK', 12)
         line = f"{row['zeichen']}  [{row['aussprache']}]  –  {row['bedeutung']}"
         c.drawString(100, y_position, line)
         y_position -= 10#30
@@ -57,7 +59,7 @@ def generate_pdf(df):
         for i in range(n_boxen):
             box_x = 100 + i * (box_width + box_spacing)
             c.rect(box_x, y_position - box_height, box_width, box_height, stroke=1, fill=0)
-        y_position -= (box_height + 20)
+        y_position -= (box_height + 25)
 
         # Seitenumbruch falls nötig
         if y_position < page_margin_bottom + box_height:
@@ -157,6 +159,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
