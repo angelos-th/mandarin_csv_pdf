@@ -1,530 +1,530 @@
-zeichen,kapitel,aussprache,aussprache_ohne_ton,ton,bedeutung,kategorie 1,kategorie 2,kategorie 3,HSK,grammatik,,
-好,1,hǎo,hao,3,gut / sehr,Alltag,,,1,Adjektiv,,
-你,1,nǐ,ni,3,du,Alltag,,,1,Pronomen,,
-您,1,nín,nin,2,Sie (höflich),Alltag,,,1,Pronomen,,
-吗,1,ma,ma,5,(Fragepartikel),Alltag,,,1,Partikel,,
-我,1,wǒ,wo,3,ich,Alltag,,,1,Pronomen,,
-很,1,hěn,hen,3,sehr,Alltag,,,1,Adverb,,
-呢,1,ne,ne,5,(Fragepartikel),Alltag,,,1,Partikel,,
-再见,1,zàijiàn,zaijian,4,auf Wiedersehen,Alltag,,,1,Ausdruck,,
-忙,1,máng,mang,2,beschäftigt,Alltag,,,1,Adjektiv,,
-累,1,lèi,lei,4,müde,Alltag,,,1,Adjektiv,,
-饿,1,è,e,4,hungrig,Alltag,,,1,Adjektiv,,
-渴,1,kě,ke,3,durstig,Alltag,,,1,Adjektiv,,
-不,1,bù,bu,4,nicht,Alltag,,,1,Adverb,,
-李莉,1,Lǐ Lì,li li,3,Li Li (Name),Name,Alltag,,1,Name,,
-约翰,1,Yuēhàn,yuehan,1,Johann (Name),Name,Alltag,,1,Name,,
-请问,2,qǐngwèn,qingwen,3,darf ich fragen,Alltag,,,1,Ausdruck,,
-叫,2,jiào,jiao,4,heißen,Alltag,,,1,Verb,,
-什么,2,shénme,shenme,2,was,Alltag,,,1,Fragewort,,
-名字,2,míngzi,mingzi,2,Name,Alltag,,,1,Nomen,,
-姓,2,xìng,xing,4,Nachname,Alltag,,,1,Nomen,,
-贵,2,guì,gui,4,teuer,Alltag,,,1,Adjektiv,,
-是,2,shì,shi,4,sein,Alltag,,,1,Verb,,
-老师,2,lǎoshī,laoshi,3,Lehrer,Person,Schule,Beruf,1,Nomen,,
-工程师,2,gōngchéngshī,gongchengshi,1,Ingenieur,Person,Beruf,,1,Nomen,,
-他,2,tā,ta,1,er,Alltag,,,1,Pronomen,,
-她,2,tā,ta,1,sie,Alltag,,,1,Pronomen,,
-们,2,men,men,5,Plural-Suffix,Alltag,,,1,Partikel,,
-秘书,2,mìshū,mishu,4,Sekretär,Person,Beruf,,1,Nomen,,
-学生,2,xuésheng,xuesheng,2,Schüler,Schule,Person,,1,Nomen,,
-介绍,2,jièshào,jieshao,4,vorstellen,Alltag,,,1,Verb,,
-一下,2,yíxià,yixia,2,kurz,Alltag,,,1,Adverb,,
-的,2,de,de,5,Partikel (Attribut),Alltag,,,1,Partikel,,
-朋友,2,péngyou,pengyou,2,Freund,Alltag,Person,,1,Nomen,,
-认识,2,rènshi,renshi,4,kennen,Alltag,,,1,Verb,,
-高兴,2,gāoxìng,gaoxing,1,glücklich,Alltag,,,1,Adjektiv,,
-也,2,yě,ye,3,auch,Alltag,,,1,Adverb,,
-先生,2,xiānsheng,xiansheng,1,Herr,Alltag,Person,,1,Nomen,,
-这,2,zhè,zhe,4,dies,Alltag,,,1,Pronomen,,
-名片,2,míngpiàn,mingpian,2,Visitenkarte,Alltag,,,1,Nomen,,
-谢谢,2,xièxie,xiexie,4,danke,Alltag,,,1,Ausdruck,,
-学校,2,xuéxiào,xuexiao,2,Schule,Schule,Ort,Gebäude,1,Nomen,,
-同学,2,tóngxué,tongxue,2,Mitschüler,Schule,Person,,1,Nomen,,
-书,2,shū,shu,1,Buch,Alltag,,,1,Nomen,,
-英国,3,Yīngguó,yingguo,1,England,Land,,,1,Nomen,,
-国,3,guó,guo,2,Land,Alltag,,,1,Nomen,,
-和,3,hé,he,2,und,Alltag,,,1,Konjunktion,,
-法国,3,Fǎguó,faguo,3,Frankreich,Land,,,1,Nomen,,
-西班牙,3,Xībānyá,xibanya,1,Spanien,Land,,,1,Nomen,,
-希腊,3,Xīlà,xila,1,Griechenland,Land,,,1,Nomen,,
-那,3,nà,na,4,jene,Alltag,,,1,Pronomen,,
-意大利,3,Yìdàlì,yidali,4,Italien,Land,,,1,Nomen,,
-中国,3,Zhōngguó,zhongguo,1,China,Land,,,1,Nomen,,
-在,3,zài,zai,4,in/bei,Alltag,,,1,Präposition,,
-家,3,jiā,jia,1,Zuhause,Alltag,,,1,Nomen,,
-这儿,3,zhèr,zher,4,hier,Alltag,Ort,,1,Adverb,,
-德国,3,Déguó,deguo,2,Deutschland,Land,,,1,Nomen,,
-哪儿,3,nǎr,nar,3,wo,Alltag,,,1,Fragewort,,
-美国,3,Měiguó,meiguo,3,USA,Land,,,1,Nomen,,
-日本,3,Rìběn,riben,4,Japan,Land,,,1,Nomen,,
-奥地利,3,Àodìlì,aodili,4,Österreich,Land,,,1,Nomen,,
-瑞士,3,Ruìshì,ruishi,4,Schweiz,Land,,,1,Nomen,,
-谁,3,shéi,shei,2,wer,Alltag,,,1,Fragewort,,
-哪,3,nǎ,na,3,welche,Alltag,,,1,Fragewort,,
-人,3,rén,ren,2,Mensch,Alltag,Person,,1,Nomen,,
-德国人,3,Déguórén,deguoren,2,Deutscher,Land,Person,,1,Nomen,,
-会,3,huì,hui,4,können,Alltag,,,1,Verb,,
-说,3,shuō,shuo,1,sprechen,Alltag,,,1,Verb,,
-汉语,3,Hànyǔ,hanyu,4,Chinesisch,Alltag,Sprache,,1,Nomen,,
-一点儿,3,yìdiǎnr,yidianr,4,ein bisschen,Alltag,,,1,Adverb,,
-日语,3,Rìyǔ,riyu,4,Japanisch,Alltag,Sprache,,1,Nomen,,
-从,3,cóng,cong,2,von,Alltag,,,1,Präposition,,
-来,3,lái,lai,2,kommen,Alltag,,,1,Verb,,
-伦敦,3,Lúndūn,lundun,2,London,Ort,,,1,Nomen,,
-哪里,3,nǎli,nali,3,wo,Alltag,,,1,Fragewort,,
-北京,3,Běijīng,beijing,3,Peking,Ort,,,1,Nomen,,
-大学,3,dàxué,daxue,4,Universität,Schule,Ort,Gebäude,1,Nomen,,
-学习,3,xuéxí,xuexi,2,lernen,Alltag,,,1,Verb,,
-柏林,3,Bólín,bolin,2,Berlin,Ort,,,1,Nomen,,
-上海,3,Shànghǎi,shanghai,4,Shanghai,Ort,,,1,Nomen,,
-公司,3,gōngsī,gongsi,1,Firma,Alltag,Ort,,1,Nomen,,
-工作,3,gōngzuò,gongzuo,1,arbeiten,Alltag,,,1,Verb,,
-现在,4,xiànzài,xianzai,4,jetzt,Alltag,,,1,Adverb,,
-几,4,jǐ,ji,3,wie viele,Alltag,,,1,Fragewort,,
-点,4,diǎn,dian,3,Uhr,Alltag,,,1,Nomen,,
-点钟,4,diǎnzhōng,dianzhong,3,Uhrzeit,Alltag,,,1,Nomen,,
-半,4,bàn,ban,4,halb,Alltag,,,1,Adjektiv,,
-对不起,4,duìbuqǐ,duibuqi,4,Entschuldigung,Alltag,,,1,Ausdruck,,
-请,4,qǐng,qing,3,bitten,Alltag,,,1,Verb,,
-再,4,zài,zai,4,wieder,Alltag,,,1,Adverb,,
-遍,4,biàn,bian,4,Mal,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-中午,4,zhōngwǔ,zhongwu,1,Mittag,Alltag,Zeit,,1,Nomen,,
-分,4,fēn,fen,1,Minute,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-分钟,4,fēnzhōng,fenzhong,1,Minuten,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-不客气,4,bù kèqi,bu keqi,2,gern geschehen,Alltag,Ausdruck,,1,Ausdruck,,
-有,4,yǒu,you,3,haben,Alltag,,,1,Verb,,
-没,4,méi,mei,2,nicht haben,Alltag,,,1,Verb,,
-今天,4,jīntiān,jintian,1,heute,Alltag,Zeit,,1,Nomen,,
-明天,4,míngtiān,mingtian,2,morgen,Alltag,Zeit,,1,Nomen,,
-昨天,4,zuótiān,zuotian,2,gestern,Alltag,Zeit,,1,Nomen,,
-下午,4,xiàwǔ,xiawu,4,Nachmittag,Alltag,Zeit,,1,Nomen,,
-上午,4,shàngwǔ,shangwu,4,Vormittag,Alltag,Zeit,,1,Nomen,,
-刻,4,kè,ke,4,Viertelstunde,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-咖啡馆,4,kāfēiguǎn,kafeiguan,1,Café,Alltag,Ort,,1,Nomen,,
-咖啡,4,kāfēi,kafei,1,Kaffee,Alltag,,,1,Nomen,,
-等,4,děng,deng,3,warten,Alltag,,,1,Verb,,
-跟,4,gēn,gen,1,mit,Alltag,,,1,Präposition,,
-约会,4,yuēhuì,yuehui,1,verabreden,Alltag,,,1,Verb,,
-还,4,hái,hai,2,noch,Alltag,,,1,Adverb,,
-时间,4,shíjiān,shijian,2,Zeit,Alltag,,,1,Nomen,,
-号,4,hào,hao,4,Tag (Datum),Alltag,Zeit,,1,Nomen,,
-星期,4,xīngqī,xingqi,1,Woche,Alltag,Zeit,,1,Nomen,,
-年,4,nián,nian,2,Jahr,Alltag,Zeit,,1,Nomen,,
-月,4,yuè,yue,4,Monat,Alltag,Zeit,,1,Nomen,,
-日,4,rì,ri,4,Tag,Alltag,Zeit,,1,Nomen,,
-知道,4,zhīdào,zhidao,1,wissen,Alltag,,,1,Verb,,
-要,4,yào,yao,4,wollen,Alltag,,,1,Verb,,
-想,4,xiǎng,xiang,3,möchten,Alltag,,,1,Verb,,
-看,4,kàn,kan,4,sehen,Alltag,,,1,Verb,,
-看见,4,kànjiàn,kanjian,4,sehen,Alltag,,,1,Verb,,
-日历,4,rìlì,rili,4,Kalender,Alltag,,,1,Nomen,,
-晚上,4,wǎnshàng,wanshang,3,Abend,Alltag,Zeit,,1,Nomen,,
-一起,4,yìqǐ,yiqi,4,zusammen,Alltag,,,1,Adverb,,
-去,4,qù,qu,4,gehen,Alltag,,,1,Verb,,
-电影,4,diànyǐng,dianying,3,Film,Alltag,,,1,Nomen,,
-漂亮,4,piàoliang,piaoliang,4,schön,Alltag,,,1,Adjektiv,,
-女儿,4,nǚ'ér,nver,3,Tochter,Person,Familie,,1,Nomen,,
-但是,4,dànshì,danshi,4,aber,Alltag,,,1,Konjunktion,,
-吧,4,ba,ba,5,(Vorschlagpartikel),Alltag,,,1,Partikel,,
-没关系,4,méi guānxi,mei guanxi,2,kein Problem,Alltag,Ausdruck,,1,Ausdruck,,
-一,4,yī,yi,1,eins,Zahl,,,1,Zahlwort,,
-二,4,èr,er,4,zwei,Zahl,,,1,Zahlwort,,
-三,4,sān,san,1,drei,Zahl,,,1,Zahlwort,,
-四,4,sì,si,4,vier,Zahl,,,1,Zahlwort,,
-五,4,wǔ,wu,3,fünf,Zahl,,,1,Zahlwort,,
-六,4,liù,liu,4,sechs,Zahl,,,1,Zahlwort,,
-七,4,qī,qi,1,sieben,Zahl,,,1,Zahlwort,,
-八,4,bā,ba,1,acht,Zahl,,,1,Zahlwort,,
-九,4,jiǔ,jiu,3,neun,Zahl,,,1,Zahlwort,,
-十,4,shí,shi,2,zehn,Zahl,,,1,Zahlwort,,
-零,4,líng,ling,2,null,Zahl,,,1,Zahlwort,,
-人,5,rén,ren,2,Mensch,Person,Alltag,,1,Nomen,,
-钱,5,qián,qian,2,Geld,Alltag,,,1,Nomen,,
-百,5,bǎi,bai,3,Hundert,Zahl,,,1,Zahlwort,,
-欧元,5,ōuyuán,ouyuan,1,Euro,Geld,Alltag,,1,Nomen,,
-元,5,yuán,yuan,2,Yuan (Währungseinheit),Zahl,Geld,Alltag,1,Nomen,,
-块,5,kuài,kuai,4,Yuan (umgangssprachlich),Zähleinheitwörter (ZEW),Geld,,1,ZEW,,
-角,5,jiǎo,jiao,3,Jiao (1/10 Yuan),Zähleinheitwörter (ZEW),Geld,,1,ZEW,,
-毛,5,máo,mao,2,Mao (1/10 Yuan, umgangssprachlich),Zähleinheitwörter (ZEW),Geld,,1,,
-分,5,fēn,fen,1,Cent/Fen (1/100 Yuan),Zähleinheitwörter (ZEW),Geld,,1,ZEW,,
-空,5,kōng,kong,1,leer,Alltag,,,1,Adjektiv,,
-房间,5,fángjiān,fangjian,2,Zimmer,Gebäude,,,1,Nomen,,
-要,5,yào,yao,4,wollen,Alltag,,,1,Verb,,
-单,5,dān,dan,1,einzeln,Alltag,,,1,Adjektiv,,
-双,5,shuāng,shuang,1,Paar,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-还是,5,háishi,haishi,2,oder (in Fragesätzen),Alltag,,,1,Konjunktion,,
-间,5,jiān,jian,1,ZEW für Räume,Zähleinheitwörter (ZEW),Gebäude,,1,ZEW,,
-住,5,zhù,zhu,4,wohnen,Alltag,,,1,Verb,,
-两,5,liǎng,liang,3,zwei (vor ZEW),Zahl,,,1,Zahlwort,,
-天,5,tiān,tian,1,Tag,Zeit,Alltag,,1,Nomen,,
-多少,5,duōshǎo,duoshao,1,wieviel,Alltag,,,1,Fragewort,,
-几,5,jǐ,ji,3,wie viele,Zahl,,,1,Fragewort,,
-千,5,qiān,qian,1,Tausend,Zahl,,,1,Zahlwort,,
-这么,5,zhème,zheme,4,so (in dem Maße),Alltag,,,1,Adverb,,
-个,5,gè,ge,4,ZEW für allgemein,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-能,5,néng,neng,2,können (fähig sein),Alltag,,,1,Verb,,
-便宜,5,piányi,pianyi,2,billig,Alltag,,,1,Adjektiv,,
-可以,5,kěyǐ,keyi,3,können/dürfen,Alltag,,,1,Verb,,
-以上,5,yǐshàng,yishang,3,über …,Alltag,,,1,Adverb,,
-一下,5,yíxià,yixia,2,kurz,Alltag,,,1,Adverb,,
-行,5,xíng,xing,2,gehen/in Ordnung sein,Alltag,,,1,Verb,,
-填,5,tián,tian,2,ausfüllen,Alltag,,,1,Verb,,
-表格,5,biǎogé,biaoge,3,Formular,Alltag,,,1,Nomen,,
-卡,5,kǎ,ka,3,Karte,Alltag,,,1,Nomen,,
-喽,5,lou,lou,5,(Partikel zur Betonung),Alltag,,,1,Partikel,,
-付钱,5,fùqián,fuqian,4,bezahlen,Alltag,Geld,,1,Verb,,
-付,5,fù,fu,4,bezahlen,Alltag,Geld,,1,Verb,,
-了,5,le,le,5,(Aspektpartikel),Alltag,,,1,Partikel,,
-一共,5,yígòng,yigong,2,insgesamt,Alltag,,,1,Adverb,,
-用,5,yòng,yong,4,benutzen,Alltag,,,1,Verb,,
-宾馆,5,bīnguǎn,binguan,1,Hotel,Gebäude,Ort,,1,Nomen,,
-刷卡,5,shuākǎ,shuaka,1,mit Karte zahlen,Alltag,Geld,,1,Verb,,
-换,5,huàn,huan,4,wechseln/umtauschen,Alltag,Geld,,1,Verb,,
-附近,5,fùjìn,fujin,4,in der Nähe,Ort,,,1,Adverb,,
-银行,5,yínháng,yinhang,2,Bank,Gebäude,Ort,,1,Nomen,,
-行,5,háng,hang,2,Branche/Zeile,Alltag,,,1,Nomen,,
-对面,5,duìmiàn,duimian,4,gegenüber,Ort,,,1,Nomen,,
-自动取款机,5,zìdòng qǔkuǎnjī,zidong qukuanji,4,Geldautomat,Gebäude,Ort,Geld,1,Nomen,,
-取,5,qǔ,qu,3,abheben,Alltag,Geld,,1,Verb,,
-去,5,qù,qu,4,gehen,Alltag,,,1,Verb,,
-餐馆,6,cānguǎn,canguan,1,Restaurant,Gebäude,Ort,Alltag,1,Nomen,,
-吃饭,6,chīfàn,chifan,1,essen,Alltag,,,1,Verb,,
-吃,6,chī,chi,1,essen,Alltag,,,1,Verb,,
-饭,6,fàn,fan,4,Mahlzeit/Reis,Alltag,Essen,,1,Nomen,,
-喜欢,6,xǐhuan,xihuan,3,mögen,Alltag,,,1,Verb,,
-告诉,6,gàosu,gaosu,4,mitteilen,Alltag,,,1,Verb,,
-欢迎光临,6,huānyíng guānglín,huanying guanglin,2,willkommen heißen,Ausdruck,Alltag,,1,Ausdruck,,
-位,6,wèi,wei,4,ZEW für Personen,Zähleinheitwörter (ZEW),Person,,1,ZEW,,
-喝,6,hē,he,1,trinken,Alltag,Essen,,1,Verb,,
-坐,6,zuò,zuo,4,sitzen,Alltag,,,1,Verb,,
-饮料,6,yǐnliào,yinliao,3,Getränk,Alltag,Essen,,1,Nomen,,
-矿泉水,6,kuàngquánshuǐ,kuangquanshui,4,Mineralwasser,Alltag,Essen,,1,Nomen,,
-水,6,shuǐ,shui,3,Wasser,Alltag,Essen,,1,Nomen,,
-苹果,6,píngguǒ,pingguo,2,Apfel,Alltag,Essen,,1,Nomen,,
-苹果汁,6,píngguǒzhī,pingguozhi,2,Apfelsaft,Alltag,Essen,,1,Nomen,,
-汁,6,zhī,zhi,1,Saft,Alltag,Essen,,1,Nomen,,
-服务员,6,fúwùyuán,fuwuyuan,2,Kellner/in,Beruf,Alltag,,1,Nomen,,
-绿茶,6,lǜchá,lucha,4,Grüntee,Alltag,Essen,,1,Nomen,,
-绿,6,lǜ,lu,4,grün,Alltag,Farbe,,1,Adjektiv,,
-茶,6,chá,cha,2,Tee,Alltag,Essen,,1,Nomen,,
-啤酒,6,píjiǔ,pijiu,2,Bier,Alltag,Essen,,1,Nomen,,
-瓶,6,píng,ping,2,Flasche,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-杯,6,bēi,bei,1,Tasse/Becher,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-杯子,6,bēizi,beizi,1,Tasse,Alltag,,,1,Nomen,,
-壶,6,hú,hu,2,Kanne,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-菜单,6,càidān,caidan,4,Speisekarte,Alltag,Essen,,1,Nomen,,
-马上,6,mǎshàng,mashang,3,sofort,Alltag,,,1,Adverb,,
-点菜,6,diǎncài,diancai,3,Gericht bestellen,Alltag,Essen,,1,Verb,,
-点,6,diǎn,dian,3,Bestellen/Punkt,Alltag,,,1,Verb,,
-蔬菜,6,shūcài,shucai,1,Gemüse,Alltag,Essen,,1,Nomen,,
-春卷,6,chūnjuǎn,chunjuan,1,Frühlingsrolle,Alltag,Essen,,1,Nomen,,
-肉,6,ròu,rou,4,Fleisch,Alltag,Essen,,1,Nomen,,
-李,6,Lǐ,li,3,Li (Nachname),Name,,,1,Name,,
-给,6,gěi,gei,3,geben,Alltag,,,1,Verb,,
-家,6,jiā,jia,1,Haus/Wohnung,Gebäude,Alltag,,1,Nomen,,
-烤鸭,6,kǎoyā,kaoya,3,Peking-Ente,Alltag,Essen,,1,Nomen,,
-鱼,6,yú,yu,2,Fisch,Alltag,Tier,,1,Nomen,,
-炒,6,chǎo,chao,3,braten (pfannenrühren),Alltag,Essen,,1,Verb,,
-牛,6,niú,niu,2,Kuh/Rind,Tier,Alltag,,1,Nomen,,
-牛肉,6,niúròu,niurou,2,Rindfleisch,Alltag,Essen,,1,Nomen,,
-份,6,fèn,fen,4,Portion,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-碗,6,wǎn,wan,3,Schüssel,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-酸,6,suān,suan,1,sauer,Alltag,Essen,,1,Adjektiv,,
-辣,6,là,la,4,scharf,Alltag,Essen,,1,Adjektiv,,
-汤,6,tāng,tang,1,Suppe,Alltag,Essen,,1,Nomen,,
-筷子,6,kuàizi,kuaizi,4,Essstäbchen,Alltag,Essen,,1,Nomen,,
-米,6,mǐ,mi,3,Reis (roh),Alltag,Essen,,1,Nomen,,
-米饭,6,mǐfàn,mifan,3,gekochter Reis,Alltag,Essen,,1,Nomen,,
-怎么,6,zěnme,zenme,3,wie,Alltag,,,1,Fragewort,,
-怎么样,6,zěnmeyàng,zenmeyang,3,wie ist …?,Alltag,,,1,Fragewort,,
-菜,6,cài,cai,4,Gemüse/Gericht,Alltag,Essen,,1,Nomen,,
-慢,6,màn,man,4,langsam,Alltag,,,1,Adjektiv,,
-干杯,6,gānbēi,ganbei,1,Prost!,Ausdruck,Alltag,,1,Ausdruck,,
-买单,6,mǎidān,maidan,3,die Rechnung bezahlen,Alltag,Essen,,1,Verb,,
-家,7,jiā,jia,1,Zuhause/Haus,Gebäude,Alltag,,1,Nomen,,
-父亲,7,fùqīn,fuqin,4,Vater,Person,Familie,,1,Nomen,,
-母亲,7,mǔqīn,muqin,3,Mutter,Person,Familie,,1,Nomen,,
-丈夫,7,zhàngfu,zhangfu,4,Ehemann,Person,Familie,,1,Nomen,,
-妻子,7,qīzi,qizi,1,Ehefrau,Person,Familie,,1,Nomen,,
-经理,7,jīnglǐ,jingli,1,Manager,Beruf,Alltag,,1,Nomen,,
-儿子,7,érzi,erzi,2,Sohn,Person,Familie,,1,Nomen,,
-哥哥,7,gēge,gege,1,älterer Bruder,Person,Familie,,1,Nomen,,
-弟弟,7,dìdi,didi,4,jüngerer Bruder,Person,Familie,,1,Nomen,,
-姐姐,7,jiějie,jiejie,3,ältere Schwester,Person,Familie,,1,Nomen,,
-妹妹,7,mèimei,meimei,4,jüngere Schwester,Person,Familie,,1,Nomen,,
-口,7,kǒu,kou,3,ZEW für Familienmitglieder,Zähleinheitwörter (ZEW),Person,,1,ZEW,,
-已经,7,yǐjīng,yijing,3,bereits,Alltag,,,1,Adverb,,
-退休,7,tuìxiū,tuixiu,4,in Rente gehen,Alltag,,,1,Verb,,
-大,7,dà,da,4,groß,Alltag,,,1,Adjektiv,,
-小,7,xiǎo,xiao,3,klein,Alltag,,,1,Adjektiv,,
-结婚,7,jiéhūn,jiehun,2,heiraten,Alltag,,,1,Verb,,
-孩子,7,háizi,haizi,2,Kind,Person,Familie,,1,Nomen,,
-只,7,zhī,zhi,1,ZEW für viele Tiere,Zähleinheitwörter (ZEW),Tier,,1,ZEW,,
-狗,7,gǒu,gou,3,Hund,Tier,Alltag,,1,Nomen,,
-猫,7,māo,mao,1,Katze,Tier,Alltag,,1,Nomen,,
-它,7,tā,ta,1,es (sächlich),Alltag,,,1,Pronomen,,
-都,7,dōu,dou,1,alle,Alltag,,,1,Adverb,,
-常常,7,chángcháng,changchang,2,oft,Alltag,,,1,Adverb,,
-晚,7,wǎn,wan,3,spät,Alltag,,,1,Adjektiv,,
-爱,7,ài,ai,4,lieben,Alltag,,,1,Verb,,
-想,7,xiǎng,xiang,3,denken/wollen,Alltag,,,1,Verb,,
-爸爸,7,bàba,baba,4,Papa,Person,Familie,,1,Nomen,,
-妈妈,7,māma,mama,1,Mama,Person,Familie,,1,Nomen,,
-做,7,zuò,zuo,4,machen,Alltag,,,1,Verb,,
-今年,7,jīnnián,jinnian,1,dieses Jahr,Zeit,,,1,Nomen,,
-多大,7,duō dà,duo da,1,wie alt,Zeit,Frage,,1,Fragewort,,
-岁,7,suì,sui,4,Jahre alt,Zähleinheitwörter (ZEW),Zeit,,1,Nomen,,
-兄弟,7,xiōngdì,xiongdi,1,Brüder,Person,Familie,,1,Nomen,,
-姐妹,7,jiěmèi,jiemei,3,Schwestern,Person,Familie,,1,Nomen,,
-学校,7,xuéxiào,xuexiao,2,Schule,Gebäude,Ort,Schule,1,Nomen,,
-生活,7,shēnghuó,shenghuo,1,Leben,Alltag,,,1,Nomen,,
-得,7,de,de,5,müssen/Partikel,Alltag,,,1,Partikel,,
-真,7,zhēn,zhen,1,wirklich,Alltag,,,1,Adverb,,
-向,7,xiàng,xiang,4,in Richtung,Alltag,,,1,Präposition,,
-问好,7,wènhǎo,wenhao,4,Grüße ausrichten,Alltag,,,1,Verb,,
-酒吧,8,jiǔbā,jiuba,3,Bar,Kneipe,Ort,Alltag,1,Nomen,,
-离,8,lí,li,2,entfernt sein von,Alltag,,,1,Präposition,,
-车,8,chē,che,1,Fahrzeug,Zahl,Alltag,,1,Nomen,,
-汽车,8,qìchē,qiche,4,Auto,Fahrzeug,Alltag,,1,Nomen,,
-开,8,kāi,kai,1,fahren/öffnen,Alltag,,,1,Verb,,
-或者,8,huòzhě,huozhe,4,oder (Aussagesatz),Alltag,,,1,Konjunktion,,
-骑,8,qí,qi,2,reiten,fahren (Rad),Alltag,,1,Verb,,
-自行车,8,zìxíngchē,zixingche,4,Fahrrad,Fahrzeug,Alltag,,1,Nomen,,
-公交车,8,gōngjiāochē,gongjiaoche,1,Bus,Fahrzeug,Alltag,,1,Nomen,,
-多,8,duō,duo,1,viel,Alltag,,,1,Adjektiv,,
-太多了,8,tài duō le,tai duo le,4,zu viel,Alltag,,,1,Ausdruck,,
-那么,8,nàme,name,4,so,dann,Alltag,,1,Adverb,,
-走,8,zǒu,zou,3,gehen,Alltag,,,1,Verb,,
-走路,8,zǒulù,zoulu,3,zu Fuß gehen,Alltag,,,1,Verb,,
-出租车,8,chūzūchē,chuzuche,1,Taxi,Fahrzeug,Alltag,,1,Nomen,,
-出租车打的,8,chūzūchē dǎdí,chuzuche dadi,1,Taxi nehmen,Alltag,,,1,Verb,,
-回,8,huí,hui,2,zurückkehren,Alltag,,,1,Verb,,
-公共,8,gōnggòng,gonggong,1,öffentlich,Alltag,,,1,Adjektiv,,
-厕所,8,cèsuǒ,cesuo,4,Toilette,Gebäude,Ort,Alltag,1,Nomen,,
-问,8,wèn,wen,4,fragen,Alltag,,,1,Verb,,
-后,8,hòu,hou,4,danach,hinten,Zeit,,1,Nomen,,
-后面,8,hòumiàn,houmian,4,hinten,Ort,Alltag,,1,Nomen,,
-小姐,8,xiǎojiě,xiaojie,3,Fräulein,Person,Alltag,,1,Nomen,,
-近,8,jìn,jin,4,nah,Alltag,,,1,Adjektiv,,
-往,8,wǎng,wang,3,nach (Richtung),Alltag,,,1,Präposition,,
-前,8,qián,qian,2,vorne,Ort,Zeit,,1,Nomen,,
-前面,8,qiánmiàn,qianmian,2,vorn,Ort,Alltag,,1,Nomen,,
-面,8,miàn,mian,4,Fläche,Seite,Alltag,,1,Nomen,,
-第,8,dì,di,4,ZEW für Ordnungszahlen,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-路口,8,lùkǒu,lukou,4,Kreuzung,Ort,Alltag,,1,Nomen,,
-右,8,yòu,you,4,rechts,Alltag,,,1,Nomen,,
-右边,8,yòubiān,youbian,4,rechte Seite,Ort,Alltag,,1,Nomen,,
-左,8,zuǒ,zuo,3,links,Alltag,,,1,Nomen,,
-左边,8,zuǒbiān,zuobian,3,linke Seite,Ort,Alltag,,1,Nomen,,
-拐,8,guǎi,guai,3,abbiegen,Alltag,,,1,Verb,,
-就,8,jiù,jiu,4,sofort,eben,Alltag,,1,Adverb,,
-地铁,8,dìtiě,ditie,4,U-Bahn,Fahrzeug,Ort,,1,Nomen,,
-线,8,xiàn,xian,4,Linie,Alltag,,,1,Nomen,,
-路,8,lù,lu,4,Straße,Ort,Alltag,,1,Nomen,,
-站,8,zhàn,zhan,4,Haltestelle,Ort,Alltag,,1,Nomen,,
-西,8,xī,xi,1,Westen,Richtung,Alltag,,1,Nomen,,
-东,8,dōng,dong,1,Osten,Richtung,Alltag,,1,Nomen,,
-上车,8,shàngchē,shangche,4,einsteigen,Alltag,,,1,Verb,,
-下车,8,xiàchē,xiache,4,aussteigen,Alltag,,,1,Verb,,
-到,8,dào,dao,4,ankommen,Alltag,,,1,Verb,,
-外,8,wài,wai,4,außen,Alltag,,,1,Nomen,,
-外面,8,wàimiàn,waimian,4,draußen,Ort,Alltag,,1,Nomen,,
-旁边,8,pángbiān,pangbian,2,Neben,Ort,Alltag,,1,Nomen,,
-穿,9,chuān,chuan,1,tragen (Kleidung),Alltag,,,1,Verb,,
-着,9,zhe,zhe,5,Partikel (fortlaufende Handlung),Alltag,,,1,Partikel,,
-毛衣,9,máoyī,maoyi,2,Pullover,Alltag,Kleidung,,1,Nomen,,
-牛仔裤,9,niúzǎikù,niuzaiku,2,Jeans,Alltag,Kleidung,,1,Nomen,,
-鞋子,9,xiézi,xiezi,2,Schuhe,Alltag,Kleidung,,1,Nomen,,
-T恤,9,T-xù,t-xu,4,T-Shirt,Alltag,Kleidung,,1,Nomen,,
-裙子,9,qúnzi,qunzi,2,Rock,Alltag,Kleidung,,1,Nomen,,
-衬衫,9,chènshān,chenshan,4,Hemd,Alltag,Kleidung,,1,Nomen,,
-上衣,9,shàngyī,shangyi,4,Oberteil,Alltag,Kleidung,,1,Nomen,,
-条,9,tiáo,tiao,2,ZEW für lange, schmale Dinge (z. B. Hose, Kleid),Zähleinheitwörter (ZEW),Alltag,,1,ZEW
-件,9,jiàn,jian,4,ZEW für Oberbekleidung,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-衣服,9,yīfu,yifu,1,Kleidung,Alltag,Kleidung,,1,Nomen,,
-买,9,mǎi,mai,3,kaufen,Alltag,,,1,Verb,,
-种,9,zhǒng,zhong,3,Art/Sorte,Alltag,,,1,Nomen,,
-颜色,9,yánsè,yanse,2,Farbe,Alltag,,,1,Nomen,,
-黑色,9,hēisè,heise,1,schwarz,Alltag,Farbe,,1,Nomen,,
-红色,9,hóngsè,hongse,2,rot,Alltag,Farbe,,1,Nomen,,
-白色,9,báisè,baise,2,weiß,Alltag,Farbe,,1,Nomen,,
-蓝色,9,lánsè,lanse,2,blau,Alltag,Farbe,,1,Nomen,,
-绿色,9,lǜsè,lüse,4,grün,Alltag,Farbe,,1,Nomen,,
-要,9,yào,yao,4,kosten/verkaufen wollen,Alltag,Geld,,1,Verb,,
-试一试,9,shì yī shì,shi yi shi,4,anprobieren,Alltag,Kleidung,,1,Verb,,
-合适,9,héshì,heshi,2,passend,Alltag,Kleidung,,1,Adjektiv,,
-太,9,tài,tai,4,sehr/zu,Alltag,,,1,Adverb,,
-公斤,9,gōngjīn,gongjin,1,Kilogramm,Zähleinheitwörter (ZEW),Alltag,,1,Nomen,,
-近,9,jìn,jin,4,nah,Alltag,,,1,Adjektiv,,
-两,9,liǎng,liang,3,zwei (vor ZEW),Zahl,Zähleinheitwörter (ZEW),,1,Zahlwort,,
-克,9,kè,ke,4,Gramm,Zähleinheitwörter (ZEW),Alltag,,1,Nomen,,
-售货员,9,shòuhuòyuán,shouhuoyuan,4,Verkäufer,Person,Beruf,,1,Nomen,,
-西红柿,9,xīhóngshì,xihongshi,1,Tomate,Alltag,Lebensmittel,,1,Nomen,,
-黄瓜,9,huángguā,huanggua,2,Gurke,Alltag,Lebensmittel,,1,Nomen,,
-青椒,9,qīngjiāo,qingjiao,1,grüne Paprika,Alltag,Lebensmittel,,1,Nomen,,
-苹果,9,píngguǒ,pingguo,2,Apfel,Alltag,Lebensmittel,,1,Nomen,,
-葡萄,9,pútao,putao,2,Traube,Alltag,Lebensmittel,,1,Nomen,,
-鸡蛋,9,jīdàn,jidan,1,Ei,Alltag,Lebensmittel,,1,Nomen,,
-牛奶,9,niúnǎi,niunai,2,Milch,Alltag,Lebensmittel,,1,Nomen,,
-奶,9,nǎi,nai,3,Milch,Alltag,Lebensmittel,,1,Nomen,,
-找,9,zhǎo,zhao,3,suchen/nach Geld herausgeben,Alltag,,,1,Verb,,
-水果,9,shuǐguǒ,shuiguo,3,Obst,Alltag,Lebensmittel,,1,Nomen,,
-商店,9,shāngdiàn,shangdian,1,Geschäft,Alltag,Gebäude,,1,Nomen,,
-店,9,diàn,dian,4,Laden,Alltag,Gebäude,,1,Nomen,,
-些,9,xiē,xie,1,einige,Alltag,,,1,ZEW,,
-东西,9,dōngxi,dongxi,1,Ding/Sache,Alltag,,,1,Nomen,,
-上课,10,shàngkè,shangke,4,Unterricht haben,Schule,Alltag,,1,Verb,,
-课,10,kè,ke,4,Unterricht,Schule,Alltag,,1,Nomen,,
-课文,10,kèwén,kewen,4,Text im Lehrbuch,Schule,Alltag,,1,Nomen,,
-问题,10,wèntí,wenti,4,Frage,Schule,Alltag,,1,Nomen,,
-回答,10,huídá,huida,2,antworten,Schule,Alltag,,1,Verb,,
-大家,10,dàjiā,dajia,4,alle (Leute),Alltag,Person,,1,Pronomen,,
-句,10,jù,ju,4,ZEW für Sätze,Zähleinheitwörter (ZEW),Sprache,,1,ZEW,,
-话,10,huà,hua,4,Wort/Aussage,Alltag,Sprache,,1,Nomen,,
-意思,10,yìsi,yisi,4,Bedeutung,Alltag,Sprache,,1,Nomen,,
-教,10,jiāo,jiao,1,unterrichten,Schule,Alltag,,1,Verb,,
-写,10,xiě,xie,3,schreiben,Schule,Alltag,,1,Verb,,
-汉字,10,hànzì,hanzi,4,chinesisches Schriftzeichen,Schule,Sprache,,1,Nomen,,
-尊敬,10,zūnjìng,zunjing,1,respektieren,Alltag,,,1,Verb,,
-每,10,měi,mei,3,jede/r/s,Alltag,,,1,Pronomen,,
-教室,10,jiàoshì,jiaoshi,4,Klassenzimmer,Schule,Gebäude,,1,Nomen,,
-听,10,tīng,ting,1,hören,Alltag,,,1,Verb,,
-完,10,wán,wan,2,beenden,Alltag,,,1,Verb,,
-讲,10,jiǎng,jiang,3,erklären,Alltag,Schule,,1,Verb,,
-语法,10,yǔfǎ,yufa,3,Grammatik,Schule,Sprache,,1,Nomen,,
-练习,10,liànxí,lianxi,4,Übung,Schule,Alltag,,1,Nomen,,
-练,10,liàn,lian,4,üben,Schule,Alltag,,1,Verb,,
-发音,10,fāyīn,fayin,1,Aussprache,Schule,Sprache,,1,Nomen,,
-记,10,jì,ji,4,sich merken,Alltag,Schule,,1,Verb,,
-新,10,xīn,xin,1,neu,Alltag,,,1,Adjektiv,,
-生词,10,shēngcí,shengci,1,Vokabel,Schule,Sprache,,1,Nomen,,
-题,10,tí,ti,2,Aufgabe/Frage,Schule,Alltag,,1,Nomen,,
-小时,10,xiǎoshí,xiaoshi,3,Stunde,Zeit,Alltag,,1,Nomen,,
-考试,10,kǎoshì,kaoshi,3,Prüfung,Schule,Alltag,,1,Nomen,,
-成绩,10,chéngjì,chengji,2,Note,Schule,Alltag,,1,Nomen,,
-不错,10,búcuò,bucuo,2,nicht schlecht,Alltag,,,1,Adjektiv,,
-错,10,cuò,cuo,4,falsch,Alltag,,,1,Adjektiv,,
-长,10,cháng,chang,2,lang,Alltag,,,1,Adjektiv,,
-为什么,10,wèishénme,weishenme,4,warum,Alltag,Frage,,1,Fragewort,,
-觉得,10,juéde,juede,2,finden/fühlen,Alltag,,,1,Verb,,
-难,10,nán,nan,2,schwierig,Alltag,,,1,Adjektiv,,
-比较,10,bǐjiào,bijiao,3,vergleichen,Alltag,,,1,Verb,,
-容易,10,róngyì,rongyi,2,leicht,Alltag,,,1,Adjektiv,,
-懂,10,dǒng,dong,3,verstehen,Alltag,,,1,Verb,,
-如果,10,rúguǒ,ruguo,2,wenn,Alltag,,,1,Konjunktion,,
-普通话,10,pǔtōnghuà,putonghua,3,Hochchinesisch,Schule,Sprache,,1,Nomen,,
-唱歌,11,chànggē,changge,4,singen,Alltag,Freizeit,,1,Verb,,
-跳舞,11,tiàowǔ,tiaowu,4,tanzen,Alltag,Freizeit,,1,Verb,,
-音乐,11,yīnyuè,yinyue,1,Musik,Alltag,Freizeit,,1,Nomen,,
-书,11,shū,shu,1,Buch,Alltag,,,1,Nomen,,
-电视,11,diànshì,dianshi,4,Fernsehen,Alltag,,,1,Nomen,,
-功夫,11,gōngfu,gongfu,1,Kung-Fu,Alltag,Sport,,1,Nomen,,
-游泳,11,yóuyǒng,youyong,2,schwimmen,Alltag,Sport,,1,Verb,,
-散步,11,sànbù,sanbu,4,spazieren gehen,Alltag,Freizeit,,1,Verb,,
-跑步,11,pǎobù,paobu,3,joggen/laufen,Alltag,Sport,,1,Verb,,
-打,11,dǎ,da,3,schlagen/spielen (Ballspiele),Alltag,Sport,,1,Verb,,
-踢,11,tī,ti,1,treten/spielen (Ballspiele),Alltag,Sport,,1,Verb,,
-篮球,11,lánqiú,lanqiu,2,Basketball,Alltag,Sport,,1,Nomen,,
-足球,11,zúqiú,zuqiu,2,Fußball,Alltag,Sport,,1,Nomen,,
-乒乓球,11,pīngpāngqiú,pingpangqiu,1,Tischtennis,Alltag,Sport,,1,Nomen,,
-太极拳,11,tàijíquán,taijiquan,4,Taichi,Alltag,Sport,,1,Nomen,,
-高尔夫球,11,gāoěrfūqiú,gaoerfuqiu,1,Golf,Alltag,Sport,,1,Nomen,,
-迪斯科,11,dísīkē,disike,2,Disco,Alltag,Freizeit,,1,Nomen,,
-下课,11,xiàkè,xiake,4,Unterricht beenden,Schule,Alltag,,1,Verb,,
-以后,11,yǐhòu,yihou,3,danach/später,Zeit,,,1,Nomen,,
-爱好,11,àihào,aihao,4,Hobby,Alltag,Freizeit,,1,Nomen,,
-下班,11,xiàbān,xiaban,4,Feierabend machen,Alltag,Beruf,,1,Verb,,
-业余时间,11,yèyú shíjiān,yeyu shijian,4,Freizeit,Alltag,Freizeit,,1,Nomen,,
-运动,11,yùndòng,yundong,4,Sport treiben,Sport,Alltag,,1,Verb,,
-上班,11,shàngbān,shangban,4,arbeiten gehen,Alltag,Beruf,,1,Verb,,
-次,11,cì,ci,4,Mal (ZEW für Häufigkeit),Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-对...感兴趣,11,duì...gǎn xìngqù,dui...ganxingqu,4,sich für … interessieren,Alltag,,,1,Verb,,
-当然,11,dāngrán,dangran,1,natürlich,Alltag,,,1,Adverb,,
-比赛,11,bǐsài,bisai,3,Wettkampf,Alltag,Sport,,1,Nomen,,
-听说,11,tīngshuō,tingshuo,1,gehört haben,Alltag,,,1,Verb,,
-还可以,11,hái kěyǐ,hai keyi,2,geht so,Alltag,,,1,Ausdruck,,
-的时候,11,de shíhou,de shihou,5,wenn / als,Zeit,,,1,Partikel,,
-开始,11,kāishǐ,kaishi,1,beginnen,Alltag,,,1,Verb,,
-传统,11,chuántǒng,chuantong,2,Tradition,Alltag,,,1,Nomen,,
-健身,11,jiànshēn,jianshen,4,Fitnesstraining machen,Alltag,Sport,,1,Verb,,
-以前,11,yǐqián,yiqian,3,früher,vormalig,Zeit,,1,Nomen,,
-什么时候,11,shénme shíhou,shenme shihou,2, wann?,Alltag,Frage,,1,Fragewort,,
-早上,11,zǎoshang,zaoshang,3,Morgen,Zeit,Alltag,,1,Nomen,,
-亲爱,12,qīn'ài,qin'ai,1,lieb/geliebt,Alltag,Ausdruck,,1,Adjektiv,,
-生日,12,shēngrì,shengri,1,Geburtstag,Alltag,Zeit,,1,Nomen,,
-邀请,12,yāoqǐng,yaoqing,1,einladen,Alltag,,,1,Verb,,
-男,12,nán,nan,2,männlich,Person,,,1,Adjektiv,,
-参加,12,cānjiā,canjia,1,teilnehmen,Alltag,,,1,Verb,,
-晚会,12,wǎnhuì,wanhui,3,Abendveranstaltung,Alltag,Freizeit,,1,Nomen,,
-地点,12,dìdiǎn,didian,4,Ort,Ort,Alltag,,1,Nomen,,
-地方,12,dìfāng,difang,4,Ort,Ort,Alltag,,1,Nomen,,
-期待,12,qīdài,qidai,1,erwarten/freuen auf,Alltag,,,1,Verb,,
-光临,12,guānglín,guanglin,1,beehren (höflich),Alltag,Ausdruck,,1,Verb,,
-收到,12,shōudào,shoudao,1,erhalten,Alltag,,,1,Verb,,
-非常,12,fēicháng,feichang,1,sehr,Alltag,,,1,Adverb,,
-出差,12,chūchāi,chuchai,1,auf Geschäftsreise sein,Beruf,Alltag,,1,Verb,,
-希望,12,xīwàng,xiwang,1,hoffen,Alltag,,,1,Verb,,
-理解,12,lǐjiě,lijie,3,verstehen,Alltag,,,1,Verb,,
-开心,12,kāixīn,kaixin,1,glücklich,Alltag,,,1,Adjektiv,,
-祝贺,12,zhùhè,zhuhe,4,gratulieren,Alltag,,,1,Verb,,
-祝,12,zhù,zhu,4,wünschen,Alltag,,,1,Verb,,
-快乐,12,kuàilè,kuaile,4,fröhlich,Alltag,,,1,Adjektiv,,
-身体,12,shēntǐ,shenti,1,Körper,Alltag,Person,,1,Nomen,,
-健康,12,jiànkāng,jiankang,4,Gesundheit/gesund,Alltag,,,1,Nomen,,
-之际,12,zhījì,zhiji,1,anlässlich,Zeit,,,1,Partikel,,
-顺利,12,shùnlì,shunli,4,reibungslos,Alltag,,,1,Adjektiv,,
-万事如意,12,wàn shì rú yì,wan shi ru yi,4,Möge alles gelingen,Ausdruck,Alltag,,1,Ausdruck,,
-过,12,guò,guo,4,feiern/verbringen,Alltag,,,1,Verb,,
-送,12,sòng,song,4,schenken/bringen,Alltag,,,1,Verb,,
-礼物,12,lǐwù,liwu,3,Geschenk,Alltag,,,1,Nomen,,
-红包,12,hóngbāo,hongbao,2,Roter Umschlag (mit Geld),Alltag,Geld,,1,Nomen,,
-本,12,běn,ben,3,ZEW für Bücher,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-束,12,shù,shu,4,ZEW für Blumen,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-花,12,huā,hua,1,Blume,Alltag,,,1,Nomen,,
-蛋糕,12,dàngāo,dangao,4,Kuchen/Torte,Alltag,, ,1,Nomen,,
-最,12,zuì,zui,4,am meisten,Alltag,,,1,Adverb,,
-张,12,zhāng,zhang,1,ZEW für flache Gegenstände,Zähleinheitwörter (ZEW),Alltag,,1,ZEW,,
-见,12,jiàn,jian,4,sehen,Alltag,,,1,Verb,,
-近,12,jìn,jin,4,nah,Alltag,,,1,Adjektiv,,
-不好意思,12,bù hǎoyìsi,bu haoyisi,4,peinlich sein,Alltag,,,1,Ausdruck,,
-椅子,12,yǐzi,yizi,3,Stuhl,Alltag,Gebäude,,1,Nomen,,
-先...然后,12,xiān... ránhòu,xian... ranhou,1,zuerst... dann,Alltag,,,1,Ausdruck,,
-聊天,12,liáotiān,liaotian,2,sich unterhalten,Alltag,,,1,Verb,,
-得,12,de,de,5,müssen/Partikel,Alltag,,,1,Partikel,,
-早,12,zǎo,zao,3,früh,Alltag,,,1,Adjektiv,,
-又...又,12,yòu... yòu,you... you,4,sowohl... als auch,Alltag,,,1,Ausdruck,,
-别,12,bié,bie,2,nicht (tun),Alltag,,,1,Imperativ,,
-你好,Reise,nǐ hǎo,ni hao,3,Hallo,Alltag,Ausdruck,,0,Ausdruck,,
-谢谢,Reise,xièxie,xiexie,4,Danke,Alltag,Ausdruck,,0,Ausdruck,,
-不客气,Reise,bú kèqi,bu keqi,2,Keine Ursache,Alltag,Ausdruck,,0,Ausdruck,,
-再见,Reise,zàijiàn,zaijian,4,Auf Wiedersehen,Alltag,Ausdruck,,0,Ausdruck,,
-请,Reise,qǐng,qing,3,Bitte,Alltag,Ausdruck,,0,Verb,,
-对不起,Reise,duìbuqǐ,duibuqi,4,Entschuldigung,Alltag,Ausdruck,,0,Ausdruck,,
-请问,Reise,qǐngwèn,qingwen,3,Entschuldigen Sie (Frage einleiten),Alltag,Ausdruck,,0,Ausdruck,,
-洗手间,Reise,xǐshǒujiān,xishoujian,3,Toilette,Gebäude,Ort,Alltag,0,Nomen,,
-在哪里,Reise,zài nǎ lǐ,zai na li,4,wo … ?,Alltag,Frage,,0,Fragewort,,
-多少钱,Reise,duōshao qián,duoshao qian,1,Wie viel kostet das?,Alltag,Geld,,0,Fragewort,,
-我要,Reise,wǒ yào,wo yao,3,ich möchte,Alltag,,,0,Verb,,
-我迷路了,Reise,wǒ mí lù le,wo mi lu le,3,ich habe mich verlaufen,Alltag,,,0,Ausdruck,,
-帮助,Reise,bāngzhù,bangzhu,1,Hilfe,Alltag,,,0,Nomen,,
-我听不懂,Reise,wǒ tīng bù dǒng,wo ting bu dong,3,ich verstehe nicht,Alltag,,,0,Ausdruck,,
-你会说英文吗,Reise,nǐ huì shuō Yīngwén ma,ni hui shuo Yingwen ma,3,Können Sie Englisch sprechen?,Alltag,Frage,,0,Fragewort,,
-地铁,Reise,dìtiě,ditie,4,U-Bahn,Fahrzeug,Ort,,0,Nomen,,
-出租车,Reise,chūzūchē,chuzuche,1,Taxi,Fahrzeug,Ort,,0,Nomen,,
-公交车,Reise,gōngjiāochē,gongjiaoche,1,Bus,Fahrzeug,Ort,,0,Nomen,,
-站,Reise,zhàn,zhan,4,Haltestelle,Ort,Alltag,,0,Nomen,,
-左转,Reise,zuǒ zhuǎn,zuo zhuan,3,links abbiegen,Alltag,Ort,,0,Verb,,
-右转,Reise,yòu zhuǎn,you zhuan,4,rechts abbiegen,Alltag,Ort,,0,Verb,,
-直走,Reise,zhí zǒu,zhi zou,2,geradeaus gehen,Alltag,Ort,,0,Verb,,
-菜单,Reise,càidān,caidan,4,Speisekarte,Alltag,Essen,,0,Nomen,,
-好吃,Reise,hǎochī,haochi,3,lecker,Alltag,Essen,,0,Adjektiv,,
-不辣,Reise,bù là,bu la,4,nicht scharf,Alltag,Essen,,0,Adjektiv,,
-买单,Reise,mǎidān,maidan,3,Rechnung bitte,Alltag,Essen,,0,Ausdruck,,
-水,Reise,shuǐ,shui,3,Wasser,Alltag,Essen,,0,Nomen,,
-茶,Reise,chá,cha,2,Tee,Alltag,Essen,,0,Nomen,,
-紧急,Reise,jǐnjí,jinji,3,Notfall,Alltag,,,0,Nomen,,
-医院,Reise,yīyuàn,yiyuan,1,Krankenhaus,Gebäude,Ort,,0,Nomen,,
-医生,Reise,yīshēng,yisheng,1,Arzt,Person,Beruf,,0,Nomen,,
-警察,Reise,jǐngchá,jingcha,3,Polizei,Person,Beruf,,0,Nomen,,
-我需要帮助,Reise,wǒ xūyào bāngzhù,wo xuyao bangzhu,3,ich brauche Hilfe,Alltag,,,0,Ausdruck,,
+zeichen,kapitel,aussprache,aussprache_ohne_ton,ton,bedeutung,kategorie 1,kategorie 2,kategorie 3,HSK,grammatik
+好,1,hǎo,hao,3,gut / sehr,Alltag,,,1,Adjektiv
+你,1,nǐ,ni,3,du,Alltag,,,1,Pronomen
+您,1,nín,nin,2,Sie (höflich),Alltag,,,1,Pronomen
+吗,1,ma,ma,5,(Fragepartikel),Alltag,,,1,Partikel
+我,1,wǒ,wo,3,ich,Alltag,,,1,Pronomen
+很,1,hěn,hen,3,sehr,Alltag,,,1,Adverb
+呢,1,ne,ne,5,(Fragepartikel),Alltag,,,1,Partikel
+再见,1,zàijiàn,zaijian,4,auf Wiedersehen,Alltag,,,1,Ausdruck
+忙,1,máng,mang,2,beschäftigt,Alltag,,,1,Adjektiv
+累,1,lèi,lei,4,müde,Alltag,,,1,Adjektiv
+饿,1,è,e,4,hungrig,Alltag,,,1,Adjektiv
+渴,1,kě,ke,3,durstig,Alltag,,,1,Adjektiv
+不,1,bù,bu,4,nicht,Alltag,,,1,Adverb
+李莉,1,Lǐ Lì,li li,3,Li Li (Name),Name,Alltag,,1,Name
+约翰,1,Yuēhàn,yuehan,1,Johann (Name),Name,Alltag,,1,Name
+请问,2,qǐngwèn,qingwen,3,darf ich fragen,Alltag,,,1,Ausdruck
+叫,2,jiào,jiao,4,heißen,Alltag,,,1,Verb
+什么,2,shénme,shenme,2,was,Alltag,,,1,Fragewort
+名字,2,míngzi,mingzi,2,Name,Alltag,,,1,Nomen
+姓,2,xìng,xing,4,Nachname,Alltag,,,1,Nomen
+贵,2,guì,gui,4,teuer,Alltag,,,1,Adjektiv
+是,2,shì,shi,4,sein,Alltag,,,1,Verb
+老师,2,lǎoshī,laoshi,3,Lehrer,Person,Schule,Beruf,1,Nomen
+工程师,2,gōngchéngshī,gongchengshi,1,Ingenieur,Person,Beruf,,1,Nomen
+他,2,tā,ta,1,er,Alltag,,,1,Pronomen
+她,2,tā,ta,1,sie,Alltag,,,1,Pronomen
+们,2,men,men,5,Plural-Suffix,Alltag,,,1,Partikel
+秘书,2,mìshū,mishu,4,Sekretär,Person,Beruf,,1,Nomen
+学生,2,xuésheng,xuesheng,2,Schüler,Schule,Person,,1,Nomen
+介绍,2,jièshào,jieshao,4,vorstellen,Alltag,,,1,Verb
+一下,2,yíxià,yixia,2,kurz,Alltag,,,1,Adverb
+的,2,de,de,5,Partikel (Attribut),Alltag,,,1,Partikel
+朋友,2,péngyou,pengyou,2,Freund,Alltag,Person,,1,Nomen
+认识,2,rènshi,renshi,4,kennen,Alltag,,,1,Verb
+高兴,2,gāoxìng,gaoxing,1,glücklich,Alltag,,,1,Adjektiv
+也,2,yě,ye,3,auch,Alltag,,,1,Adverb
+先生,2,xiānsheng,xiansheng,1,Herr,Alltag,Person,,1,Nomen
+这,2,zhè,zhe,4,dies,Alltag,,,1,Pronomen
+名片,2,míngpiàn,mingpian,2,Visitenkarte,Alltag,,,1,Nomen
+谢谢,2,xièxie,xiexie,4,danke,Alltag,,,1,Ausdruck
+学校,2,xuéxiào,xuexiao,2,Schule,Schule,Ort,Gebäude,1,Nomen
+同学,2,tóngxué,tongxue,2,Mitschüler,Schule,Person,,1,Nomen
+书,2,shū,shu,1,Buch,Alltag,,,1,Nomen
+英国,3,Yīngguó,yingguo,1,England,Land,,,1,Nomen
+国,3,guó,guo,2,Land,Alltag,,,1,Nomen
+和,3,hé,he,2,und,Alltag,,,1,Konjunktion
+法国,3,Fǎguó,faguo,3,Frankreich,Land,,,1,Nomen
+西班牙,3,Xībānyá,xibanya,1,Spanien,Land,,,1,Nomen
+希腊,3,Xīlà,xila,1,Griechenland,Land,,,1,Nomen
+那,3,nà,na,4,jene,Alltag,,,1,Pronomen
+意大利,3,Yìdàlì,yidali,4,Italien,Land,,,1,Nomen
+中国,3,Zhōngguó,zhongguo,1,China,Land,,,1,Nomen
+在,3,zài,zai,4,in/bei,Alltag,,,1,Präposition
+家,3,jiā,jia,1,Zuhause,Alltag,,,1,Nomen
+这儿,3,zhèr,zher,4,hier,Alltag,Ort,,1,Adverb
+德国,3,Déguó,deguo,2,Deutschland,Land,,,1,Nomen
+哪儿,3,nǎr,nar,3,wo,Alltag,,,1,Fragewort
+美国,3,Měiguó,meiguo,3,USA,Land,,,1,Nomen
+日本,3,Rìběn,riben,4,Japan,Land,,,1,Nomen
+奥地利,3,Àodìlì,aodili,4,Österreich,Land,,,1,Nomen
+瑞士,3,Ruìshì,ruishi,4,Schweiz,Land,,,1,Nomen
+谁,3,shéi,shei,2,wer,Alltag,,,1,Fragewort
+哪,3,nǎ,na,3,welche,Alltag,,,1,Fragewort
+人,3,rén,ren,2,Mensch,Alltag,Person,,1,Nomen
+德国人,3,Déguórén,deguoren,2,Deutscher,Land,Person,,1,Nomen
+会,3,huì,hui,4,können,Alltag,,,1,Verb
+说,3,shuō,shuo,1,sprechen,Alltag,,,1,Verb
+汉语,3,Hànyǔ,hanyu,4,Chinesisch,Alltag,Sprache,,1,Nomen
+一点儿,3,yìdiǎnr,yidianr,4,ein bisschen,Alltag,,,1,Adverb
+日语,3,Rìyǔ,riyu,4,Japanisch,Alltag,Sprache,,1,Nomen
+从,3,cóng,cong,2,von,Alltag,,,1,Präposition
+来,3,lái,lai,2,kommen,Alltag,,,1,Verb
+伦敦,3,Lúndūn,lundun,2,London,Ort,,,1,Nomen
+哪里,3,nǎli,nali,3,wo,Alltag,,,1,Fragewort
+北京,3,Běijīng,beijing,3,Peking,Ort,,,1,Nomen
+大学,3,dàxué,daxue,4,Universität,Schule,Ort,Gebäude,1,Nomen
+学习,3,xuéxí,xuexi,2,lernen,Alltag,,,1,Verb
+柏林,3,Bólín,bolin,2,Berlin,Ort,,,1,Nomen
+上海,3,Shànghǎi,shanghai,4,Shanghai,Ort,,,1,Nomen
+公司,3,gōngsī,gongsi,1,Firma,Alltag,Ort,,1,Nomen
+工作,3,gōngzuò,gongzuo,1,arbeiten,Alltag,,,1,Verb
+现在,4,xiànzài,xianzai,4,jetzt,Alltag,,,1,Adverb
+几,4,jǐ,ji,3,wie viele,Alltag,,,1,Fragewort
+点,4,diǎn,dian,3,Uhr,Alltag,,,1,Nomen
+点钟,4,diǎnzhōng,dianzhong,3,Uhrzeit,Alltag,,,1,Nomen
+半,4,bàn,ban,4,halb,Alltag,,,1,Adjektiv
+对不起,4,duìbuqǐ,duibuqi,4,Entschuldigung,Alltag,,,1,Ausdruck
+请,4,qǐng,qing,3,bitten,Alltag,,,1,Verb
+再,4,zài,zai,4,wieder,Alltag,,,1,Adverb
+遍,4,biàn,bian,4,Mal,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+中午,4,zhōngwǔ,zhongwu,1,Mittag,Alltag,Zeit,,1,Nomen
+分,4,fēn,fen,1,Minute,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+分钟,4,fēnzhōng,fenzhong,1,Minuten,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+不客气,4,bù kèqi,bu keqi,2,gern geschehen,Alltag,Ausdruck,,1,Ausdruck
+有,4,yǒu,you,3,haben,Alltag,,,1,Verb
+没,4,méi,mei,2,nicht haben,Alltag,,,1,Verb
+今天,4,jīntiān,jintian,1,heute,Alltag,Zeit,,1,Nomen
+明天,4,míngtiān,mingtian,2,morgen,Alltag,Zeit,,1,Nomen
+昨天,4,zuótiān,zuotian,2,gestern,Alltag,Zeit,,1,Nomen
+下午,4,xiàwǔ,xiawu,4,Nachmittag,Alltag,Zeit,,1,Nomen
+上午,4,shàngwǔ,shangwu,4,Vormittag,Alltag,Zeit,,1,Nomen
+刻,4,kè,ke,4,Viertelstunde,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+咖啡馆,4,kāfēiguǎn,kafeiguan,1,Café,Alltag,Ort,,1,Nomen
+咖啡,4,kāfēi,kafei,1,Kaffee,Alltag,,,1,Nomen
+等,4,děng,deng,3,warten,Alltag,,,1,Verb
+跟,4,gēn,gen,1,mit,Alltag,,,1,Präposition
+约会,4,yuēhuì,yuehui,1,verabreden,Alltag,,,1,Verb
+还,4,hái,hai,2,noch,Alltag,,,1,Adverb
+时间,4,shíjiān,shijian,2,Zeit,Alltag,,,1,Nomen
+号,4,hào,hao,4,Tag (Datum),Alltag,Zeit,,1,Nomen
+星期,4,xīngqī,xingqi,1,Woche,Alltag,Zeit,,1,Nomen
+年,4,nián,nian,2,Jahr,Alltag,Zeit,,1,Nomen
+月,4,yuè,yue,4,Monat,Alltag,Zeit,,1,Nomen
+日,4,rì,ri,4,Tag,Alltag,Zeit,,1,Nomen
+知道,4,zhīdào,zhidao,1,wissen,Alltag,,,1,Verb
+要,4,yào,yao,4,wollen,Alltag,,,1,Verb
+想,4,xiǎng,xiang,3,möchten,Alltag,,,1,Verb
+看,4,kàn,kan,4,sehen,Alltag,,,1,Verb
+看见,4,kànjiàn,kanjian,4,sehen,Alltag,,,1,Verb
+日历,4,rìlì,rili,4,Kalender,Alltag,,,1,Nomen
+晚上,4,wǎnshàng,wanshang,3,Abend,Alltag,Zeit,,1,Nomen
+一起,4,yìqǐ,yiqi,4,zusammen,Alltag,,,1,Adverb
+去,4,qù,qu,4,gehen,Alltag,,,1,Verb
+电影,4,diànyǐng,dianying,3,Film,Alltag,,,1,Nomen
+漂亮,4,piàoliang,piaoliang,4,schön,Alltag,,,1,Adjektiv
+女儿,4,nǚ'ér,nver,3,Tochter,Person,Familie,,1,Nomen
+但是,4,dànshì,danshi,4,aber,Alltag,,,1,Konjunktion
+吧,4,ba,ba,5,(Vorschlagpartikel),Alltag,,,1,Partikel
+没关系,4,méi guānxi,mei guanxi,2,kein Problem,Alltag,Ausdruck,,1,Ausdruck
+一,4,yī,yi,1,eins,Zahl,,,1,Zahlwort
+二,4,èr,er,4,zwei,Zahl,,,1,Zahlwort
+三,4,sān,san,1,drei,Zahl,,,1,Zahlwort
+四,4,sì,si,4,vier,Zahl,,,1,Zahlwort
+五,4,wǔ,wu,3,fünf,Zahl,,,1,Zahlwort
+六,4,liù,liu,4,sechs,Zahl,,,1,Zahlwort
+七,4,qī,qi,1,sieben,Zahl,,,1,Zahlwort
+八,4,bā,ba,1,acht,Zahl,,,1,Zahlwort
+九,4,jiǔ,jiu,3,neun,Zahl,,,1,Zahlwort
+十,4,shí,shi,2,zehn,Zahl,,,1,Zahlwort
+零,4,líng,ling,2,null,Zahl,,,1,Zahlwort
+人,5,rén,ren,2,Mensch,Person,Alltag,,1,Nomen
+钱,5,qián,qian,2,Geld,Alltag,,,1,Nomen
+百,5,bǎi,bai,3,Hundert,Zahl,,,1,Zahlwort
+欧元,5,ōuyuán,ouyuan,1,Euro,Geld,Alltag,,1,Nomen
+元,5,yuán,yuan,2,Yuan (Währungseinheit),Zahl,Geld,Alltag,1,Nomen
+块,5,kuài,kuai,4,Yuan (umgangssprachlich),Zähleinheitwörter (ZEW),Geld,,1,ZEW
+角,5,jiǎo,jiao,3,Jiao (1/10 Yuan),Zähleinheitwörter (ZEW),Geld,,1,ZEW
+毛,5,máo,mao,2,Mao (1/10 Yuan umgangssprachlich),Zähleinheitwörter (ZEW),Geld,,1,ZEW
+分,5,fēn,fen,1,Cent/Fen (1/100 Yuan),Zähleinheitwörter (ZEW),Geld,,1,ZEW
+空,5,kōng,kong,1,leer,Alltag,,,1,Adjektiv
+房间,5,fángjiān,fangjian,2,Zimmer,Gebäude,,,1,Nomen
+要,5,yào,yao,4,wollen,Alltag,,,1,Verb
+单,5,dān,dan,1,einzeln,Alltag,,,1,Adjektiv
+双,5,shuāng,shuang,1,Paar,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+还是,5,háishi,haishi,2,oder (in Fragesätzen),Alltag,,,1,Konjunktion
+间,5,jiān,jian,1,ZEW für Räume,Zähleinheitwörter (ZEW),Gebäude,,1,ZEW
+住,5,zhù,zhu,4,wohnen,Alltag,,,1,Verb
+两,5,liǎng,liang,3,zwei (vor ZEW),Zahl,,,1,Zahlwort
+天,5,tiān,tian,1,Tag,Zeit,Alltag,,1,Nomen
+多少,5,duōshǎo,duoshao,1,wieviel,Alltag,,,1,Fragewort
+几,5,jǐ,ji,3,wie viele,Zahl,,,1,Fragewort
+千,5,qiān,qian,1,Tausend,Zahl,,,1,Zahlwort
+这么,5,zhème,zheme,4,so (in dem Maße),Alltag,,,1,Adverb
+个,5,gè,ge,4,ZEW für allgemein,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+能,5,néng,neng,2,können (fähig sein),Alltag,,,1,Verb
+便宜,5,piányi,pianyi,2,billig,Alltag,,,1,Adjektiv
+可以,5,kěyǐ,keyi,3,können/dürfen,Alltag,,,1,Verb
+以上,5,yǐshàng,yishang,3,über …,Alltag,,,1,Adverb
+一下,5,yíxià,yixia,2,kurz,Alltag,,,1,Adverb
+行,5,xíng,xing,2,gehen/in Ordnung sein,Alltag,,,1,Verb
+填,5,tián,tian,2,ausfüllen,Alltag,,,1,Verb
+表格,5,biǎogé,biaoge,3,Formular,Alltag,,,1,Nomen
+卡,5,kǎ,ka,3,Karte,Alltag,,,1,Nomen
+喽,5,lou,lou,5,(Partikel zur Betonung),Alltag,,,1,Partikel
+付钱,5,fùqián,fuqian,4,bezahlen,Alltag,Geld,,1,Verb
+付,5,fù,fu,4,bezahlen,Alltag,Geld,,1,Verb
+了,5,le,le,5,(Aspektpartikel),Alltag,,,1,Partikel
+一共,5,yígòng,yigong,2,insgesamt,Alltag,,,1,Adverb
+用,5,yòng,yong,4,benutzen,Alltag,,,1,Verb
+宾馆,5,bīnguǎn,binguan,1,Hotel,Gebäude,Ort,,1,Nomen
+刷卡,5,shuākǎ,shuaka,1,mit Karte zahlen,Alltag,Geld,,1,Verb
+换,5,huàn,huan,4,wechseln/umtauschen,Alltag,Geld,,1,Verb
+附近,5,fùjìn,fujin,4,in der Nähe,Ort,,,1,Adverb
+银行,5,yínháng,yinhang,2,Bank,Gebäude,Ort,,1,Nomen
+行,5,háng,hang,2,Branche/Zeile,Alltag,,,1,Nomen
+对面,5,duìmiàn,duimian,4,gegenüber,Ort,,,1,Nomen
+自动取款机,5,zìdòng qǔkuǎnjī,zidong qukuanji,4,Geldautomat,Gebäude,Ort,Geld,1,Nomen
+取,5,qǔ,qu,3,abheben,Alltag,Geld,,1,Verb
+去,5,qù,qu,4,gehen,Alltag,,,1,Verb
+餐馆,6,cānguǎn,canguan,1,Restaurant,Gebäude,Ort,Alltag,1,Nomen
+吃饭,6,chīfàn,chifan,1,essen,Alltag,,,1,Verb
+吃,6,chī,chi,1,essen,Alltag,,,1,Verb
+饭,6,fàn,fan,4,Mahlzeit/Reis,Alltag,Essen,,1,Nomen
+喜欢,6,xǐhuan,xihuan,3,mögen,Alltag,,,1,Verb
+告诉,6,gàosu,gaosu,4,mitteilen,Alltag,,,1,Verb
+欢迎光临,6,huānyíng guānglín,huanying guanglin,2,willkommen heißen,Ausdruck,Alltag,,1,Ausdruck
+位,6,wèi,wei,4,ZEW für Personen,Zähleinheitwörter (ZEW),Person,,1,ZEW
+喝,6,hē,he,1,trinken,Alltag,Essen,,1,Verb
+坐,6,zuò,zuo,4,sitzen,Alltag,,,1,Verb
+饮料,6,yǐnliào,yinliao,3,Getränk,Alltag,Essen,,1,Nomen
+矿泉水,6,kuàngquánshuǐ,kuangquanshui,4,Mineralwasser,Alltag,Essen,,1,Nomen
+水,6,shuǐ,shui,3,Wasser,Alltag,Essen,,1,Nomen
+苹果,6,píngguǒ,pingguo,2,Apfel,Alltag,Essen,,1,Nomen
+苹果汁,6,píngguǒzhī,pingguozhi,2,Apfelsaft,Alltag,Essen,,1,Nomen
+汁,6,zhī,zhi,1,Saft,Alltag,Essen,,1,Nomen
+服务员,6,fúwùyuán,fuwuyuan,2,Kellner/in,Beruf,Alltag,,1,Nomen
+绿茶,6,lǜchá,lucha,4,Grüntee,Alltag,Essen,,1,Nomen
+绿,6,lǜ,lu,4,grün,Alltag,Farbe,,1,Adjektiv
+茶,6,chá,cha,2,Tee,Alltag,Essen,,1,Nomen
+啤酒,6,píjiǔ,pijiu,2,Bier,Alltag,Essen,,1,Nomen
+瓶,6,píng,ping,2,Flasche,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+杯,6,bēi,bei,1,Tasse/Becher,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+杯子,6,bēizi,beizi,1,Tasse,Alltag,,,1,Nomen
+壶,6,hú,hu,2,Kanne,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+菜单,6,càidān,caidan,4,Speisekarte,Alltag,Essen,,1,Nomen
+马上,6,mǎshàng,mashang,3,sofort,Alltag,,,1,Adverb
+点菜,6,diǎncài,diancai,3,Gericht bestellen,Alltag,Essen,,1,Verb
+点,6,diǎn,dian,3,Bestellen/Punkt,Alltag,,,1,Verb
+蔬菜,6,shūcài,shucai,1,Gemüse,Alltag,Essen,,1,Nomen
+春卷,6,chūnjuǎn,chunjuan,1,Frühlingsrolle,Alltag,Essen,,1,Nomen
+肉,6,ròu,rou,4,Fleisch,Alltag,Essen,,1,Nomen
+李,6,Lǐ,li,3,Li (Nachname),Name,,,1,Name
+给,6,gěi,gei,3,geben,Alltag,,,1,Verb
+家,6,jiā,jia,1,Haus/Wohnung,Gebäude,Alltag,,1,Nomen
+烤鸭,6,kǎoyā,kaoya,3,Peking-Ente,Alltag,Essen,,1,Nomen
+鱼,6,yú,yu,2,Fisch,Alltag,Tier,,1,Nomen
+炒,6,chǎo,chao,3,braten (pfannenrühren),Alltag,Essen,,1,Verb
+牛,6,niú,niu,2,Kuh/Rind,Tier,Alltag,,1,Nomen
+牛肉,6,niúròu,niurou,2,Rindfleisch,Alltag,Essen,,1,Nomen
+份,6,fèn,fen,4,Portion,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+碗,6,wǎn,wan,3,Schüssel,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+酸,6,suān,suan,1,sauer,Alltag,Essen,,1,Adjektiv
+辣,6,là,la,4,scharf,Alltag,Essen,,1,Adjektiv
+汤,6,tāng,tang,1,Suppe,Alltag,Essen,,1,Nomen
+筷子,6,kuàizi,kuaizi,4,Essstäbchen,Alltag,Essen,,1,Nomen
+米,6,mǐ,mi,3,Reis (roh),Alltag,Essen,,1,Nomen
+米饭,6,mǐfàn,mifan,3,gekochter Reis,Alltag,Essen,,1,Nomen
+怎么,6,zěnme,zenme,3,wie,Alltag,,,1,Fragewort
+怎么样,6,zěnmeyàng,zenmeyang,3,wie ist …?,Alltag,,,1,Fragewort
+菜,6,cài,cai,4,Gemüse/Gericht,Alltag,Essen,,1,Nomen
+慢,6,màn,man,4,langsam,Alltag,,,1,Adjektiv
+干杯,6,gānbēi,ganbei,1,Prost!,Ausdruck,Alltag,,1,Ausdruck
+买单,6,mǎidān,maidan,3,die Rechnung bezahlen,Alltag,Essen,,1,Verb
+家,7,jiā,jia,1,Zuhause/Haus,Gebäude,Alltag,,1,Nomen
+父亲,7,fùqīn,fuqin,4,Vater,Person,Familie,,1,Nomen
+母亲,7,mǔqīn,muqin,3,Mutter,Person,Familie,,1,Nomen
+丈夫,7,zhàngfu,zhangfu,4,Ehemann,Person,Familie,,1,Nomen
+妻子,7,qīzi,qizi,1,Ehefrau,Person,Familie,,1,Nomen
+经理,7,jīnglǐ,jingli,1,Manager,Beruf,Alltag,,1,Nomen
+儿子,7,érzi,erzi,2,Sohn,Person,Familie,,1,Nomen
+哥哥,7,gēge,gege,1,älterer Bruder,Person,Familie,,1,Nomen
+弟弟,7,dìdi,didi,4,jüngerer Bruder,Person,Familie,,1,Nomen
+姐姐,7,jiějie,jiejie,3,ältere Schwester,Person,Familie,,1,Nomen
+妹妹,7,mèimei,meimei,4,jüngere Schwester,Person,Familie,,1,Nomen
+口,7,kǒu,kou,3,ZEW für Familienmitglieder,Zähleinheitwörter (ZEW),Person,,1,ZEW
+已经,7,yǐjīng,yijing,3,bereits,Alltag,,,1,Adverb
+退休,7,tuìxiū,tuixiu,4,in Rente gehen,Alltag,,,1,Verb
+大,7,dà,da,4,groß,Alltag,,,1,Adjektiv
+小,7,xiǎo,xiao,3,klein,Alltag,,,1,Adjektiv
+结婚,7,jiéhūn,jiehun,2,heiraten,Alltag,,,1,Verb
+孩子,7,háizi,haizi,2,Kind,Person,Familie,,1,Nomen
+只,7,zhī,zhi,1,ZEW für viele Tiere,Zähleinheitwörter (ZEW),Tier,,1,ZEW
+狗,7,gǒu,gou,3,Hund,Tier,Alltag,,1,Nomen
+猫,7,māo,mao,1,Katze,Tier,Alltag,,1,Nomen
+它,7,tā,ta,1,es (sächlich),Alltag,,,1,Pronomen
+都,7,dōu,dou,1,alle,Alltag,,,1,Adverb
+常常,7,chángcháng,changchang,2,oft,Alltag,,,1,Adverb
+晚,7,wǎn,wan,3,spät,Alltag,,,1,Adjektiv
+爱,7,ài,ai,4,lieben,Alltag,,,1,Verb
+想,7,xiǎng,xiang,3,denken/wollen,Alltag,,,1,Verb
+爸爸,7,bàba,baba,4,Papa,Person,Familie,,1,Nomen
+妈妈,7,māma,mama,1,Mama,Person,Familie,,1,Nomen
+做,7,zuò,zuo,4,machen,Alltag,,,1,Verb
+今年,7,jīnnián,jinnian,1,dieses Jahr,Zeit,,,1,Nomen
+多大,7,duō dà,duo da,1,wie alt,Zeit,Frage,,1,Fragewort
+岁,7,suì,sui,4,Jahre alt,Zähleinheitwörter (ZEW),Zeit,,1,Nomen
+兄弟,7,xiōngdì,xiongdi,1,Brüder,Person,Familie,,1,Nomen
+姐妹,7,jiěmèi,jiemei,3,Schwestern,Person,Familie,,1,Nomen
+学校,7,xuéxiào,xuexiao,2,Schule,Gebäude,Ort,Schule,1,Nomen
+生活,7,shēnghuó,shenghuo,1,Leben,Alltag,,,1,Nomen
+得,7,de,de,5,müssen/Partikel,Alltag,,,1,Partikel
+真,7,zhēn,zhen,1,wirklich,Alltag,,,1,Adverb
+向,7,xiàng,xiang,4,in Richtung,Alltag,,,1,Präposition
+问好,7,wènhǎo,wenhao,4,Grüße ausrichten,Alltag,,,1,Verb
+酒吧,8,jiǔbā,jiuba,3,Bar,Kneipe,Ort,Alltag,1,Nomen
+离,8,lí,li,2,entfernt sein von,Alltag,,,1,Präposition
+车,8,chē,che,1,Fahrzeug,Zahl,Alltag,,1,Nomen
+汽车,8,qìchē,qiche,4,Auto,Fahrzeug,Alltag,,1,Nomen
+开,8,kāi,kai,1,fahren/öffnen,Alltag,,,1,Verb
+或者,8,huòzhě,huozhe,4,oder (Aussagesatz),Alltag,,,1,Konjunktion
+骑,8,qí,qi,2,reiten/fahren (Rad),,Alltag,,1,Verb
+自行车,8,zìxíngchē,zixingche,4,Fahrrad,Fahrzeug,Alltag,,1,Nomen
+公交车,8,gōngjiāochē,gongjiaoche,1,Bus,Fahrzeug,Alltag,,1,Nomen
+多,8,duō,duo,1,viel,Alltag,,,1,Adjektiv
+太多了,8,tài duō le,tai duo le,4,zu viel,Alltag,,,1,Ausdruck
+那么,8,nàme,name,4,so/dann,Alltag,,,1,Adverb
+走,8,zǒu,zou,3,gehen,Alltag,,,1,Verb
+走路,8,zǒulù,zoulu,3,zu Fuß gehen,Alltag,,,1,Verb
+出租车,8,chūzūchē,chuzuche,1,Taxi,Fahrzeug,Alltag,,1,Nomen
+出租车打的,8,chūzūchē dǎdí,chuzuche dadi,1,Taxi nehmen,Alltag,,,1,Verb
+回,8,huí,hui,2,zurückkehren,Alltag,,,1,Verb
+公共,8,gōnggòng,gonggong,1,öffentlich,Alltag,,,1,Adjektiv
+厕所,8,cèsuǒ,cesuo,4,Toilette,Gebäude,Ort,Alltag,1,Nomen
+问,8,wèn,wen,4,fragen,Alltag,,,1,Verb
+后,8,hòu,hou,4,danach/hinten,Zeit,,,1,Nomen
+后面,8,hòumiàn,houmian,4,hinten,Ort,Alltag,,1,Nomen
+小姐,8,xiǎojiě,xiaojie,3,Fräulein,Person,Alltag,,1,Nomen
+近,8,jìn,jin,4,nah,Alltag,,,1,Adjektiv
+往,8,wǎng,wang,3,nach (Richtung),Alltag,,,1,Präposition
+前,8,qián,qian,2,vorne,Ort,Zeit,,1,Nomen
+前面,8,qiánmiàn,qianmian,2,vorn,Ort,Alltag,,1,Nomen
+面,8,miàn,mian,4,Fläche,Seite,Alltag,,1,Nomen
+第,8,dì,di,4,ZEW für Ordnungszahlen,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+路口,8,lùkǒu,lukou,4,Kreuzung,Ort,Alltag,,1,Nomen
+右,8,yòu,you,4,rechts,Alltag,,,1,Nomen
+右边,8,yòubiān,youbian,4,rechte Seite,Ort,Alltag,,1,Nomen
+左,8,zuǒ,zuo,3,links,Alltag,,,1,Nomen
+左边,8,zuǒbiān,zuobian,3,linke Seite,Ort,Alltag,,1,Nomen
+拐,8,guǎi,guai,3,abbiegen,Alltag,,,1,Verb
+就,8,jiù,jiu,4,sofort/eben,Alltag,,,1,Adverb
+地铁,8,dìtiě,ditie,4,U-Bahn,Fahrzeug,Ort,,1,Nomen
+线,8,xiàn,xian,4,Linie,Alltag,,,1,Nomen
+路,8,lù,lu,4,Straße,Ort,Alltag,,1,Nomen
+站,8,zhàn,zhan,4,Haltestelle,Ort,Alltag,,1,Nomen
+西,8,xī,xi,1,Westen,Richtung,Alltag,,1,Nomen
+东,8,dōng,dong,1,Osten,Richtung,Alltag,,1,Nomen
+上车,8,shàngchē,shangche,4,einsteigen,Alltag,,,1,Verb
+下车,8,xiàchē,xiache,4,aussteigen,Alltag,,,1,Verb
+到,8,dào,dao,4,ankommen,Alltag,,,1,Verb
+外,8,wài,wai,4,außen,Alltag,,,1,Nomen
+外面,8,wàimiàn,waimian,4,draußen,Ort,Alltag,,1,Nomen
+旁边,8,pángbiān,pangbian,2,Neben,Ort,Alltag,,1,Nomen
+穿,9,chuān,chuan,1,tragen (Kleidung),Alltag,,,1,Verb
+着,9,zhe,zhe,5,Partikel (fortlaufende Handlung),Alltag,,,1,Partikel
+毛衣,9,máoyī,maoyi,2,Pullover,Alltag,Kleidung,,1,Nomen
+牛仔裤,9,niúzǎikù,niuzaiku,2,Jeans,Alltag,Kleidung,,1,Nomen
+鞋子,9,xiézi,xiezi,2,Schuhe,Alltag,Kleidung,,1,Nomen
+T恤,9,T-xù,t-xu,4,T-Shirt,Alltag,Kleidung,,1,Nomen
+裙子,9,qúnzi,qunzi,2,Rock,Alltag,Kleidung,,1,Nomen
+衬衫,9,chènshān,chenshan,4,Hemd,Alltag,Kleidung,,1,Nomen
+上衣,9,shàngyī,shangyi,4,Oberteil,Alltag,Kleidung,,1,Nomen
+条,9,tiáo,tiao,2,ZEW für lange schmale Dinge (z. B. Hose/Kleid),Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+件,9,jiàn,jian,4,ZEW für Oberbekleidung,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+衣服,9,yīfu,yifu,1,Kleidung,Alltag,Kleidung,,1,Nomen
+买,9,mǎi,mai,3,kaufen,Alltag,,,1,Verb
+种,9,zhǒng,zhong,3,Art/Sorte,Alltag,,,1,Nomen
+颜色,9,yánsè,yanse,2,Farbe,Alltag,,,1,Nomen
+黑色,9,hēisè,heise,1,schwarz,Alltag,Farbe,,1,Nomen
+红色,9,hóngsè,hongse,2,rot,Alltag,Farbe,,1,Nomen
+白色,9,báisè,baise,2,weiß,Alltag,Farbe,,1,Nomen
+蓝色,9,lánsè,lanse,2,blau,Alltag,Farbe,,1,Nomen
+绿色,9,lǜsè,lüse,4,grün,Alltag,Farbe,,1,Nomen
+要,9,yào,yao,4,kosten/verkaufen wollen,Alltag,Geld,,1,Verb
+试一试,9,shì yī shì,shi yi shi,4,anprobieren,Alltag,Kleidung,,1,Verb
+合适,9,héshì,heshi,2,passend,Alltag,Kleidung,,1,Adjektiv
+太,9,tài,tai,4,sehr/zu,Alltag,,,1,Adverb
+公斤,9,gōngjīn,gongjin,1,Kilogramm,Zähleinheitwörter (ZEW),Alltag,,1,Nomen
+近,9,jìn,jin,4,nah,Alltag,,,1,Adjektiv
+两,9,liǎng,liang,3,zwei (vor ZEW),Zahl,Zähleinheitwörter (ZEW),,1,Zahlwort
+克,9,kè,ke,4,Gramm,Zähleinheitwörter (ZEW),Alltag,,1,Nomen
+售货员,9,shòuhuòyuán,shouhuoyuan,4,Verkäufer,Person,Beruf,,1,Nomen
+西红柿,9,xīhóngshì,xihongshi,1,Tomate,Alltag,Lebensmittel,,1,Nomen
+黄瓜,9,huángguā,huanggua,2,Gurke,Alltag,Lebensmittel,,1,Nomen
+青椒,9,qīngjiāo,qingjiao,1,grüne Paprika,Alltag,Lebensmittel,,1,Nomen
+苹果,9,píngguǒ,pingguo,2,Apfel,Alltag,Lebensmittel,,1,Nomen
+葡萄,9,pútao,putao,2,Traube,Alltag,Lebensmittel,,1,Nomen
+鸡蛋,9,jīdàn,jidan,1,Ei,Alltag,Lebensmittel,,1,Nomen
+牛奶,9,niúnǎi,niunai,2,Milch,Alltag,Lebensmittel,,1,Nomen
+奶,9,nǎi,nai,3,Milch,Alltag,Lebensmittel,,1,Nomen
+找,9,zhǎo,zhao,3,suchen/nach Geld herausgeben,Alltag,,,1,Verb
+水果,9,shuǐguǒ,shuiguo,3,Obst,Alltag,Lebensmittel,,1,Nomen
+商店,9,shāngdiàn,shangdian,1,Geschäft,Alltag,Gebäude,,1,Nomen
+店,9,diàn,dian,4,Laden,Alltag,Gebäude,,1,Nomen
+些,9,xiē,xie,1,einige,Alltag,,,1,ZEW
+东西,9,dōngxi,dongxi,1,Ding/Sache,Alltag,,,1,Nomen
+上课,10,shàngkè,shangke,4,Unterricht haben,Schule,Alltag,,1,Verb
+课,10,kè,ke,4,Unterricht,Schule,Alltag,,1,Nomen
+课文,10,kèwén,kewen,4,Text im Lehrbuch,Schule,Alltag,,1,Nomen
+问题,10,wèntí,wenti,4,Frage,Schule,Alltag,,1,Nomen
+回答,10,huídá,huida,2,antworten,Schule,Alltag,,1,Verb
+大家,10,dàjiā,dajia,4,alle (Leute),Alltag,Person,,1,Pronomen
+句,10,jù,ju,4,ZEW für Sätze,Zähleinheitwörter (ZEW),Sprache,,1,ZEW
+话,10,huà,hua,4,Wort/Aussage,Alltag,Sprache,,1,Nomen
+意思,10,yìsi,yisi,4,Bedeutung,Alltag,Sprache,,1,Nomen
+教,10,jiāo,jiao,1,unterrichten,Schule,Alltag,,1,Verb
+写,10,xiě,xie,3,schreiben,Schule,Alltag,,1,Verb
+汉字,10,hànzì,hanzi,4,chinesisches Schriftzeichen,Schule,Sprache,,1,Nomen
+尊敬,10,zūnjìng,zunjing,1,respektieren,Alltag,,,1,Verb
+每,10,měi,mei,3,jede/r/s,Alltag,,,1,Pronomen
+教室,10,jiàoshì,jiaoshi,4,Klassenzimmer,Schule,Gebäude,,1,Nomen
+听,10,tīng,ting,1,hören,Alltag,,,1,Verb
+完,10,wán,wan,2,beenden,Alltag,,,1,Verb
+讲,10,jiǎng,jiang,3,erklären,Alltag,Schule,,1,Verb
+语法,10,yǔfǎ,yufa,3,Grammatik,Schule,Sprache,,1,Nomen
+练习,10,liànxí,lianxi,4,Übung,Schule,Alltag,,1,Nomen
+练,10,liàn,lian,4,üben,Schule,Alltag,,1,Verb
+发音,10,fāyīn,fayin,1,Aussprache,Schule,Sprache,,1,Nomen
+记,10,jì,ji,4,sich merken,Alltag,Schule,,1,Verb
+新,10,xīn,xin,1,neu,Alltag,,,1,Adjektiv
+生词,10,shēngcí,shengci,1,Vokabel,Schule,Sprache,,1,Nomen
+题,10,tí,ti,2,Aufgabe/Frage,Schule,Alltag,,1,Nomen
+小时,10,xiǎoshí,xiaoshi,3,Stunde,Zeit,Alltag,,1,Nomen
+考试,10,kǎoshì,kaoshi,3,Prüfung,Schule,Alltag,,1,Nomen
+成绩,10,chéngjì,chengji,2,Note,Schule,Alltag,,1,Nomen
+不错,10,búcuò,bucuo,2,nicht schlecht,Alltag,,,1,Adjektiv
+错,10,cuò,cuo,4,falsch,Alltag,,,1,Adjektiv
+长,10,cháng,chang,2,lang,Alltag,,,1,Adjektiv
+为什么,10,wèishénme,weishenme,4,warum,Alltag,Frage,,1,Fragewort
+觉得,10,juéde,juede,2,finden/fühlen,Alltag,,,1,Verb
+难,10,nán,nan,2,schwierig,Alltag,,,1,Adjektiv
+比较,10,bǐjiào,bijiao,3,vergleichen,Alltag,,,1,Verb
+容易,10,róngyì,rongyi,2,leicht,Alltag,,,1,Adjektiv
+懂,10,dǒng,dong,3,verstehen,Alltag,,,1,Verb
+如果,10,rúguǒ,ruguo,2,wenn,Alltag,,,1,Konjunktion
+普通话,10,pǔtōnghuà,putonghua,3,Hochchinesisch,Schule,Sprache,,1,Nomen
+唱歌,11,chànggē,changge,4,singen,Alltag,Freizeit,,1,Verb
+跳舞,11,tiàowǔ,tiaowu,4,tanzen,Alltag,Freizeit,,1,Verb
+音乐,11,yīnyuè,yinyue,1,Musik,Alltag,Freizeit,,1,Nomen
+书,11,shū,shu,1,Buch,Alltag,,,1,Nomen
+电视,11,diànshì,dianshi,4,Fernsehen,Alltag,,,1,Nomen
+功夫,11,gōngfu,gongfu,1,Kung-Fu,Alltag,Sport,,1,Nomen
+游泳,11,yóuyǒng,youyong,2,schwimmen,Alltag,Sport,,1,Verb
+散步,11,sànbù,sanbu,4,spazieren gehen,Alltag,Freizeit,,1,Verb
+跑步,11,pǎobù,paobu,3,joggen/laufen,Alltag,Sport,,1,Verb
+打,11,dǎ,da,3,schlagen/spielen (Ballspiele),Alltag,Sport,,1,Verb
+踢,11,tī,ti,1,treten/spielen (Ballspiele),Alltag,Sport,,1,Verb
+篮球,11,lánqiú,lanqiu,2,Basketball,Alltag,Sport,,1,Nomen
+足球,11,zúqiú,zuqiu,2,Fußball,Alltag,Sport,,1,Nomen
+乒乓球,11,pīngpāngqiú,pingpangqiu,1,Tischtennis,Alltag,Sport,,1,Nomen
+太极拳,11,tàijíquán,taijiquan,4,Taichi,Alltag,Sport,,1,Nomen
+高尔夫球,11,gāoěrfūqiú,gaoerfuqiu,1,Golf,Alltag,Sport,,1,Nomen
+迪斯科,11,dísīkē,disike,2,Disco,Alltag,Freizeit,,1,Nomen
+下课,11,xiàkè,xiake,4,Unterricht beenden,Schule,Alltag,,1,Verb
+以后,11,yǐhòu,yihou,3,danach/später,Zeit,,,1,Nomen
+爱好,11,àihào,aihao,4,Hobby,Alltag,Freizeit,,1,Nomen
+下班,11,xiàbān,xiaban,4,Feierabend machen,Alltag,Beruf,,1,Verb
+业余时间,11,yèyú shíjiān,yeyu shijian,4,Freizeit,Alltag,Freizeit,,1,Nomen
+运动,11,yùndòng,yundong,4,Sport treiben,Sport,Alltag,,1,Verb
+上班,11,shàngbān,shangban,4,arbeiten gehen,Alltag,Beruf,,1,Verb
+次,11,cì,ci,4,Mal (ZEW für Häufigkeit),Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+对...感兴趣,11,duì...gǎn xìngqù,dui...ganxingqu,4,sich für … interessieren,Alltag,,,1,Verb
+当然,11,dāngrán,dangran,1,natürlich,Alltag,,,1,Adverb
+比赛,11,bǐsài,bisai,3,Wettkampf,Alltag,Sport,,1,Nomen
+听说,11,tīngshuō,tingshuo,1,gehört haben,Alltag,,,1,Verb
+还可以,11,hái kěyǐ,hai keyi,2,geht so,Alltag,,,1,Ausdruck
+的时候,11,de shíhou,de shihou,5,wenn / als,Zeit,,,1,Partikel
+开始,11,kāishǐ,kaishi,1,beginnen,Alltag,,,1,Verb
+传统,11,chuántǒng,chuantong,2,Tradition,Alltag,,,1,Nomen
+健身,11,jiànshēn,jianshen,4,Fitnesstraining machen,Alltag,Sport,,1,Verb
+以前,11,yǐqián,yiqian,3,früher/vormalig,Zeit,,,1,Nomen
+什么时候,11,shénme shíhou,shenme shihou,2, wann?,Alltag,Frage,,1,Fragewort
+早上,11,zǎoshang,zaoshang,3,Morgen,Zeit,Alltag,,1,Nomen
+亲爱,12,qīn'ài,qin'ai,1,lieb/geliebt,Alltag,Ausdruck,,1,Adjektiv
+生日,12,shēngrì,shengri,1,Geburtstag,Alltag,Zeit,,1,Nomen
+邀请,12,yāoqǐng,yaoqing,1,einladen,Alltag,,,1,Verb
+男,12,nán,nan,2,männlich,Person,,,1,Adjektiv
+参加,12,cānjiā,canjia,1,teilnehmen,Alltag,,,1,Verb
+晚会,12,wǎnhuì,wanhui,3,Abendveranstaltung,Alltag,Freizeit,,1,Nomen
+地点,12,dìdiǎn,didian,4,Ort,Ort,Alltag,,1,Nomen
+地方,12,dìfāng,difang,4,Ort,Ort,Alltag,,1,Nomen
+期待,12,qīdài,qidai,1,erwarten/freuen auf,Alltag,,,1,Verb
+光临,12,guānglín,guanglin,1,beehren (höflich),Alltag,Ausdruck,,1,Verb
+收到,12,shōudào,shoudao,1,erhalten,Alltag,,,1,Verb
+非常,12,fēicháng,feichang,1,sehr,Alltag,,,1,Adverb
+出差,12,chūchāi,chuchai,1,auf Geschäftsreise sein,Beruf,Alltag,,1,Verb
+希望,12,xīwàng,xiwang,1,hoffen,Alltag,,,1,Verb
+理解,12,lǐjiě,lijie,3,verstehen,Alltag,,,1,Verb
+开心,12,kāixīn,kaixin,1,glücklich,Alltag,,,1,Adjektiv
+祝贺,12,zhùhè,zhuhe,4,gratulieren,Alltag,,,1,Verb
+祝,12,zhù,zhu,4,wünschen,Alltag,,,1,Verb
+快乐,12,kuàilè,kuaile,4,fröhlich,Alltag,,,1,Adjektiv
+身体,12,shēntǐ,shenti,1,Körper,Alltag,Person,,1,Nomen
+健康,12,jiànkāng,jiankang,4,Gesundheit/gesund,Alltag,,,1,Nomen
+之际,12,zhījì,zhiji,1,anlässlich,Zeit,,,1,Partikel
+顺利,12,shùnlì,shunli,4,reibungslos,Alltag,,,1,Adjektiv
+万事如意,12,wàn shì rú yì,wan shi ru yi,4,Möge alles gelingen,Ausdruck,Alltag,,1,Ausdruck
+过,12,guò,guo,4,feiern/verbringen,Alltag,,,1,Verb
+送,12,sòng,song,4,schenken/bringen,Alltag,,,1,Verb
+礼物,12,lǐwù,liwu,3,Geschenk,Alltag,,,1,Nomen
+红包,12,hóngbāo,hongbao,2,Roter Umschlag (mit Geld),Alltag,Geld,,1,Nomen
+本,12,běn,ben,3,ZEW für Bücher,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+束,12,shù,shu,4,ZEW für Blumen,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+花,12,huā,hua,1,Blume,Alltag,,,1,Nomen
+蛋糕,12,dàngāo,dangao,4,Kuchen/Torte,Alltag,, ,1,Nomen
+最,12,zuì,zui,4,am meisten,Alltag,,,1,Adverb
+张,12,zhāng,zhang,1,ZEW für flache Gegenstände,Zähleinheitwörter (ZEW),Alltag,,1,ZEW
+见,12,jiàn,jian,4,sehen,Alltag,,,1,Verb
+近,12,jìn,jin,4,nah,Alltag,,,1,Adjektiv
+不好意思,12,bù hǎoyìsi,bu haoyisi,4,peinlich sein,Alltag,,,1,Ausdruck
+椅子,12,yǐzi,yizi,3,Stuhl,Alltag,Gebäude,,1,Nomen
+先...然后,12,xiān... ránhòu,xian... ranhou,1,zuerst... dann,Alltag,,,1,Ausdruck
+聊天,12,liáotiān,liaotian,2,sich unterhalten,Alltag,,,1,Verb
+得,12,de,de,5,müssen/Partikel,Alltag,,,1,Partikel
+早,12,zǎo,zao,3,früh,Alltag,,,1,Adjektiv
+又...又,12,yòu... yòu,you... you,4,sowohl... als auch,Alltag,,,1,Ausdruck
+别,12,bié,bie,2,nicht (tun),Alltag,,,1,Imperativ
+你好,Reise,nǐ hǎo,ni hao,3,Hallo,Alltag,Ausdruck,,0,Ausdruck
+谢谢,Reise,xièxie,xiexie,4,Danke,Alltag,Ausdruck,,0,Ausdruck
+不客气,Reise,bú kèqi,bu keqi,2,Keine Ursache,Alltag,Ausdruck,,0,Ausdruck
+再见,Reise,zàijiàn,zaijian,4,Auf Wiedersehen,Alltag,Ausdruck,,0,Ausdruck
+请,Reise,qǐng,qing,3,Bitte,Alltag,Ausdruck,,0,Verb
+对不起,Reise,duìbuqǐ,duibuqi,4,Entschuldigung,Alltag,Ausdruck,,0,Ausdruck
+请问,Reise,qǐngwèn,qingwen,3,Entschuldigen Sie (Frage einleiten),Alltag,Ausdruck,,0,Ausdruck
+洗手间,Reise,xǐshǒujiān,xishoujian,3,Toilette,Gebäude,Ort,Alltag,0,Nomen
+在哪里,Reise,zài nǎ lǐ,zai na li,4,wo … ?,Alltag,Frage,,0,Fragewort
+多少钱,Reise,duōshao qián,duoshao qian,1,Wie viel kostet das?,Alltag,Geld,,0,Fragewort
+我要,Reise,wǒ yào,wo yao,3,ich möchte,Alltag,,,0,Verb
+我迷路了,Reise,wǒ mí lù le,wo mi lu le,3,ich habe mich verlaufen,Alltag,,,0,Ausdruck
+帮助,Reise,bāngzhù,bangzhu,1,Hilfe,Alltag,,,0,Nomen
+我听不懂,Reise,wǒ tīng bù dǒng,wo ting bu dong,3,ich verstehe nicht,Alltag,,,0,Ausdruck
+你会说英文吗,Reise,nǐ huì shuō Yīngwén ma,ni hui shuo Yingwen ma,3,Können Sie Englisch sprechen?,Alltag,Frage,,0,Fragewort
+地铁,Reise,dìtiě,ditie,4,U-Bahn,Fahrzeug,Ort,,0,Nomen
+出租车,Reise,chūzūchē,chuzuche,1,Taxi,Fahrzeug,Ort,,0,Nomen
+公交车,Reise,gōngjiāochē,gongjiaoche,1,Bus,Fahrzeug,Ort,,0,Nomen
+站,Reise,zhàn,zhan,4,Haltestelle,Ort,Alltag,,0,Nomen
+左转,Reise,zuǒ zhuǎn,zuo zhuan,3,links abbiegen,Alltag,Ort,,0,Verb
+右转,Reise,yòu zhuǎn,you zhuan,4,rechts abbiegen,Alltag,Ort,,0,Verb
+直走,Reise,zhí zǒu,zhi zou,2,geradeaus gehen,Alltag,Ort,,0,Verb
+菜单,Reise,càidān,caidan,4,Speisekarte,Alltag,Essen,,0,Nomen
+好吃,Reise,hǎochī,haochi,3,lecker,Alltag,Essen,,0,Adjektiv
+不辣,Reise,bù là,bu la,4,nicht scharf,Alltag,Essen,,0,Adjektiv
+买单,Reise,mǎidān,maidan,3,Rechnung bitte,Alltag,Essen,,0,Ausdruck
+水,Reise,shuǐ,shui,3,Wasser,Alltag,Essen,,0,Nomen
+茶,Reise,chá,cha,2,Tee,Alltag,Essen,,0,Nomen
+紧急,Reise,jǐnjí,jinji,3,Notfall,Alltag,,,0,Nomen
+医院,Reise,yīyuàn,yiyuan,1,Krankenhaus,Gebäude,Ort,,0,Nomen
+医生,Reise,yīshēng,yisheng,1,Arzt,Person,Beruf,,0,Nomen
+警察,Reise,jǐngchá,jingcha,3,Polizei,Person,Beruf,,0,Nomen
+我需要帮助,Reise,wǒ xūyào bāngzhù,wo xuyao bangzhu,3,ich brauche Hilfe,Alltag,,,0,Ausdruck
