@@ -100,7 +100,9 @@ df = st.session_state.df
 # Proceed only if df is not None
 if df is not None:
     # Filter options
-    kapitel = st.multiselect("📘 Kapitel auswählen", sorted(df["kapitel"].unique()))
+    kapitel_liste = sorted(df["kapitel"].dropna().unique())
+    
+    kapitel = st.multiselect("📘 Kapitel auswählen", kapitel_liste)#st.multiselect("📘 Kapitel auswählen", sorted(df["kapitel"].unique()))
     aussprache = st.text_input("🔤 Filter: Aussprache ohne Ton (z. B. 'hao')")
     grammatik = st.multiselect("🧠 Grammatikalische Kategorie wählen", sorted(df["grammatik"].dropna().unique()))
     hsk = st.multiselect("📊 HSK-Niveau auswählen", sorted(df["HSK"].dropna().unique()))
@@ -142,5 +144,6 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
