@@ -77,7 +77,7 @@ def generate_vocab_pdf(df):
     buffer = BytesIO()
     c = canvas.Canvas(buffer, pagesize=letter)
 
-    c.setFont(NotoSansCJK", 16)
+    c.setFont("NotoSansCJK", 16)
     c.drawString(100, 780, "Lernblatt – Chinesischer Wortschatz")
 
     y_position = 750
@@ -198,6 +198,7 @@ if df is not None:
             if st.button("Vokabellern-PDF generieren"):
                 pdf_bytes = generate_vocab_pdf(gefiltert)
                 st.download_button("📥 PDF herunterladen", data=pdf_bytes, file_name="vokabellern.pdf", mime="application/pdf")
+
 
 
 
