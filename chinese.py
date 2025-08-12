@@ -77,7 +77,7 @@ def generate_vocab_pdf(df):
     buffer = BytesIO()
     c = canvas.Canvas(buffer, pagesize=letter)
 
-    c.setFont("STSong-Light", 16)
+    c.setFont(NotoSansCJK", 16)
     c.drawString(100, 780, "Lernblatt – Chinesischer Wortschatz")
 
     y_position = 750
@@ -87,14 +87,14 @@ def generate_vocab_pdf(df):
     for _, row in df.iterrows():
         # Wörter nacheinander ausgeben
         line = f"{row['zeichen']}  [{row['aussprache']}] – {row['bedeutung']}"
-        c.setFont("STSong-Light", 14)
+        c.setFont("NotoSansCJK", 14)
         c.drawString(100, y_position, line)
         y_position -= line_height
 
         # Seitenumbruch, wenn unten angekommen
         if y_position < page_margin_bottom:
             c.showPage()
-            c.setFont("STSong-Light", 14)
+            c.setFont("NotoSansCJK", 14)
             y_position = 750
 
     c.save()
@@ -198,6 +198,7 @@ if df is not None:
             if st.button("Vokabellern-PDF generieren"):
                 pdf_bytes = generate_vocab_pdf(gefiltert)
                 st.download_button("📥 PDF herunterladen", data=pdf_bytes, file_name="vokabellern.pdf", mime="application/pdf")
+
 
 
 
