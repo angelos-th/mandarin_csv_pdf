@@ -123,7 +123,12 @@ if df is not None:
     if kapitel:
         gefiltert = gefiltert[gefiltert["kapitel"].isin(kapitel)]
     if aussprache:
-        gefiltert = gefiltert[gefiltert["aussprache_ohne_ton"].str.lower().str.contains(aussprache.lower())]
+        gefiltert = gefiltert[
+        gefiltert["aussprache_ohne_ton"]
+        .fillna("")  # fehlende Aussprache durch leeren String ersetzen
+        .str.lower()
+        .str.contains(aussprache.lower(), na=False)  # na=False = treat NaN as False
+    ]
         #gefiltert = gefiltert[gefiltert["aussprache_ohne_ton"].str.lower() == aussprache.lower()]
     if grammatik:
         gefiltert = gefiltert[gefiltert["grammatik"].isin(grammatik)]
@@ -145,6 +150,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
