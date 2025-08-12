@@ -37,9 +37,9 @@ def generate_pdf(df):
     c.drawString(100, 780, "Übungsblatt – Chinesische Schriftzeichen")
 
     y_position = 750
-    box_width = 40
-    box_height = 40
-    box_spacing = 10
+    box_width = 20
+    box_height = 20
+    box_spacing = 5
     page_margin_bottom = 30
 
     for _, row in df.iterrows():
@@ -51,7 +51,7 @@ def generate_pdf(df):
 
         # Wie viele Symbole (="Boxen")?
         zeichen_text = str(row['zeichen'])
-        n_boxen = len(zeichen_text)
+        n_boxen = 10#len(zeichen_text)
 
         # Leere Kästchen nebeneinander
         for i in range(n_boxen):
@@ -157,6 +157,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
