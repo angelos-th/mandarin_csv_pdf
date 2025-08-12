@@ -11,7 +11,7 @@ import requests
 # Register Arial Unicode font with a specific name
 #font_path = "C:/Windows/Fonts/arialuni.ttf"  # Ensure this path is correct
 pdfmetrics.registerFont(UnicodeCIDFont('STSong-Light'))
-pdfmetrics.registerFont(TTFont('NotoSansCJK', 'NotoSansCJK-Regular.ttf'))
+pdfmetrics.registerFont(TTFont('NotoSansCJK', 'https://github.com/angelos-th/mandarin_csv_pdf/raw/refs/heads/main/NotoSansSC-Regular.ttf'))
 st.set_page_config(layout="wide")
 if "df" not in st.session_state:
     st.session_state.df = None
@@ -161,6 +161,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
