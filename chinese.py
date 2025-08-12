@@ -34,7 +34,8 @@ def generate_pdf(df):
     c = canvas.Canvas(buffer, pagesize=letter)
 
     # Überschrift
-    c.setFont("STSong-Light", 16)
+    c.setFont('NotoSansCJK', 16)
+    #c.setFont("STSong-Light", 16)
     c.drawString(100, 780, "Übungsblatt – Chinesische Schriftzeichen")
 
     y_position = 750
@@ -64,7 +65,8 @@ def generate_pdf(df):
         # Seitenumbruch falls nötig
         if y_position < page_margin_bottom + box_height:
             c.showPage()
-            c.setFont("STSong-Light", 14)
+            c.setFont('NotoSansCJK', 12)
+            #c.setFont("STSong-Light", 14)
             y_position = 750
 
     c.save()
@@ -159,6 +161,7 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
 
 
