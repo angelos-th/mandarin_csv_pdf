@@ -73,6 +73,34 @@ def generate_pdf(df):
     buffer.seek(0)
     return buffer
 
+def generate_vocab_pdf(df):
+    buffer = BytesIO()
+    c = canvas.Canvas(buffer, pagesize=letter)
+
+    c.setFont("STSong-Light", 16)
+    c.drawString(100, 780, "Lernblatt – Chinesischer Wortschatz")
+
+    y_position = 750
+    line_height = 30
+    page_margin_bottom = 50
+
+    for _, row in df.iterrows():
+        # Wörter nacheinander ausgeben
+        line = f"{row['zeichen']}  [{row['aussprache']}] – {row['bedeutung']}"
+        c.setFont("STSong-Light", 14)
+        c.drawString(100, y_position, line)
+        y_position -= line_height
+
+        # Seitenumbruch, wenn unten angekommen
+        if y_position < page_margin_bottom:
+            c.showPage()
+            c.setFont("STSong-Light", 14)
+            y_position = 750
+
+    c.save()
+    buffer.seek(0)
+    return buffer
+
 
 st.title("📚 Chinesisch Übungsblätter Generator")
 
@@ -153,14 +181,24 @@ if df is not None:
     st.write(f"Gefundene Wörter: {len(gefiltert)}")
 
     if not gefiltert.empty:
-        if st.button("📄 PDF generieren"):
-            pdf_bytes = generate_pdf(gefiltert)
-            st.download_button(
-                label="📥 PDF herunterladen",
-                data=pdf_bytes,
-                file_name="uebungsblatt.pdf",
-                mime="application/pdf"
-            )
+#        if st.button("📄 PDF generieren"):
+#            pdf_bytes = generate_pdf(gefiltert)
+#            st.download_button(
+#                label="📥 PDF herunterladen",
+#                data=pdf_bytes,
+#                file_name="uebungsblatt.pdf",
+#                mime="application/pdf"
+#            )
+        art = st.radio("📄 PDF-Art auswählen:", ["Übungsblatt (Schreiben üben)", "Lernblatt (Vokabeln)"])
+        if art == "Übungsblatt (Schreiben üben)":
+            if st.button("PDF mit Übungsblättern generieren"):
+                pdf_bytes = generate_pdf(gefiltert)
+                st.download_button("📥 PDF herunterladen", data=pdf_bytes, file_name="uebungsblatt.pdf", mime="application/pdf")
+        else:
+            if st.button("Vokabellern-PDF generieren"):
+                pdf_bytes = generate_vocab_pdf(gefiltert)
+                st.download_button("📥 PDF herunterladen", data=pdf_bytes, file_name="vokabellern.pdf", mime="application/pdf")
+
 
 
 
