@@ -73,7 +73,7 @@ github_file_url = "https://raw.githubusercontent.com/angelos-th/mandarin_csv_pdf
 df = None
 
 # Button to load the file from GitHub
-if st.button("Load File from GitHub"):
+if st.button("Buch Wortschatz Kap. 1-12"):
     file_content = load_file_from_github(github_file_url)
     if file_content:
         st.write("File loaded successfully!")
@@ -127,14 +127,9 @@ if df is not None:
     if tags_filter:
         gefiltert = gefiltert[gefiltert["alle_tags"].apply(lambda tag_liste: any(tag in tag_liste for tag in tags_filter))]
 
-    # Show original vs filtered data side-by-side
-    col1, col2 = st.columns(2)
-    with col1:
-        st.subheader("📄 Originale Daten")
-        st.dataframe(df)
-    with col2:
-        st.subheader("🔍 Gefilterte Daten")
-        st.dataframe(gefiltert)
+   
+    st.subheader("🔍 Gefilterte Daten")
+    st.dataframe(gefiltert)
 
     st.write(f"Gefundene Wörter: {len(gefiltert)}")
 
@@ -147,4 +142,5 @@ if df is not None:
                 file_name="uebungsblatt.pdf",
                 mime="application/pdf"
             )
+
 
